@@ -1,0 +1,3012 @@
+{
+    "page_1": [{
+        "id": "tt6741278",
+        "title": "Invincible",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BMmE1ODVhMGYtODYyYS00Mjc4LWIzN2EtYWZkZDg1MTUyNDkxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.8"
+    }, {
+        "id": "tt2560140",
+        "title": "Attack on Titan",
+        "year": "(2013–2022)",
+        "image": "https://imdb-api.com/images/original/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "9"
+    }, {
+        "id": "tt5626028",
+        "title": "My Hero Academia",
+        "year": "(2016– )",
+        "image": "https://imdb-api.com/images/original/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.8000_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt0388629",
+        "title": "One Piece",
+        "year": "(1999– )",
+        "image": "https://imdb-api.com/images/original/MV5BODcwNWE3OTMtMDc3MS00NDFjLWE1OTAtNDU3NjgxODMxY2UyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.8"
+    }, {
+        "id": "tt3909224",
+        "title": "The Seven Deadly Sins",
+        "year": "(2014– )",
+        "image": "https://imdb-api.com/images/original/MV5BM2VmODMyZTUtOWFkNC00OGI5LTg5NjEtMjFiMjU0MDQxMDcyXkEyXkFqcGdeQXVyMTI2NTY3NDg5._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt11032374",
+        "title": "Demon Slayer: Mugen Train",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt6517102",
+        "title": "Castlevania",
+        "year": "(2017–2021)",
+        "image": "https://imdb-api.com/images/original/MV5BYWUwN2UwYTktMDk4OC00YTg0LThmNTItNWE3ZjQxOTIxZTg3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt9335498",
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.7"
+    }, {
+        "id": "tt13676344",
+        "title": "Record of Ragnarok",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BOTcyOGZiMzctNTQyOS00OTYzLTk0M2EtMTI5MTU0NmU5ZGU2XkEyXkFqcGdeQXVyMTI2NTY3NDg5._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "6.2"
+    }, {
+        "id": "tt0417299",
+        "title": "Avatar: The Last Airbender",
+        "year": "(2005–2008)",
+        "image": "https://imdb-api.com/images/original/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "9.3"
+    }, {
+        "id": "tt12343534",
+        "title": "Jujutsu Kaisen",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BNzQyYzU3Y2MtOWY2Yy00ZGM2LTg3ZTUtMDJkZTJiMmEzMjYxXkEyXkFqcGdeQXVyMTI2NTY3NDg5._V1_Ratio0.8000_AL_.jpg",
+        "imDbRating": "8.8"
+    }, {
+        "id": "tt0988824",
+        "title": "Naruto: Shippûden",
+        "year": "(2007–2017)",
+        "image": "https://imdb-api.com/images/original/MV5BMTE5NzIwMGUtYTE1MS00MDUxLTgyZjctOWVkZDAxM2M4ZWQ4XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt9304350",
+        "title": "Fruits Basket",
+        "year": "(2019–2021)",
+        "image": "https://imdb-api.com/images/original/MV5BYjAyZGQ0YWYtY2RlZS00ZDc3LWFiZmQtN2NlMWNjMmYwMjRlXkEyXkFqcGdeQXVyMzExMzk5MTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt13196080",
+        "title": "Tokyo Revengers",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BNTVkMzRlYmMtYzc1Ny00YTQ5LWI5ZTAtNTk3YmYxOWYwZGVlXkEyXkFqcGdeQXVyOTc4OTAwMjU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt2098220",
+        "title": "Hunter x Hunter",
+        "year": "(2011–2014)",
+        "image": "https://imdb-api.com/images/original/MV5BZjNmZDhkN2QtNDYyZC00YzJmLTg0ODUtN2FjNjhhMzE3ZmUxXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "9"
+    }, {
+        "id": "tt0877057",
+        "title": "Death Note",
+        "year": "(2006–2007)",
+        "image": "https://imdb-api.com/images/original/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "9"
+    }, {
+        "id": "tt6342474",
+        "title": "Boruto: Naruto Next Generations",
+        "year": "(2017– )",
+        "image": "https://imdb-api.com/images/original/MV5BYjM0MDRkYzctMTNhMS00ODYwLTgwMWItZDYxNDlhOGY1YjRlXkEyXkFqcGdeQXVyMzExMzk5MTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt10826054",
+        "title": "Masters of the Universe: Revelation",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BMDJjYTUzOTUtMmJmNC00MzhkLWEwNTMtY2Q5ZTZkZDAwMzkyXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "-"
+    }, {
+        "id": "tt0409591",
+        "title": "Naruto",
+        "year": "(2002–2007)",
+        "image": "https://imdb-api.com/images/original/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt1355642",
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "year": "(2009–2012)",
+        "image": "https://imdb-api.com/images/original/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "9.1"
+    }, {
+        "id": "tt0245429",
+        "title": "Spirited Away",
+        "year": "(2001)",
+        "image": "https://imdb-api.com/images/original/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt2359704",
+        "title": "JoJo's Bizarre Adventure",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BZDc3NGQ3ZWQtYjNkOC00MjhiLTg2N2YtNmZlOGNiZTFkOWNhXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt7441658",
+        "title": "Black Clover",
+        "year": "(2017–2021)",
+        "image": "https://imdb-api.com/images/original/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt4508902",
+        "title": "One Punch Man",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.8"
+    }, {
+        "id": "tt9310336",
+        "title": "Trese",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BM2JmMzBhYWUtOGRlZi00NWE3LWJjNDgtMzc4ZWY2ZGJlMGU3XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt12063450",
+        "title": "To Your Eternity",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BMWI4MjNjNjgtNWE0MC00NThmLTg0YzEtMDZlODA5NTJhYzY3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "9.1"
+    }, {
+        "id": "tt5311514",
+        "title": "Your Name.",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt13229964",
+        "title": "Godzilla Singular Point",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BMGJhZGIxZjctZjIxZi00YTlmLTk1ZjQtNTlkYWE1NTk2NTY3XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt1695360",
+        "title": "The Legend of Korra",
+        "year": "(2012–2014)",
+        "image": "https://imdb-api.com/images/original/MV5BYTZhNGY2ZDAtYWYxYy00YWNlLWI3NDUtNjBiM2NkMGVmODIxXkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt13173456",
+        "title": "Resident Evil: Infinite Darkness",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BN2NjYjJjZDAtNDI1ZS00MzY5LWFhMzItZjdlM2I0ZDkxMzdlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.4000_AL_.jpg",
+        "imDbRating": "-"
+    }, {
+        "id": "tt13288678",
+        "title": "Mobile Suit Gundam: Hathaway",
+        "year": "(2021)",
+        "image": "https://imdb-api.com/images/original/MV5BYTVmYjFkMWEtNTM0Mi00NjQ2LTgxOWItOTBmODA2Zjc1YmQ5XkEyXkFqcGdeQXVyMTMxNDQyNjM5._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt3398540",
+        "title": "Haikyuu!!",
+        "year": "(2014–2020)",
+        "image": "https://imdb-api.com/images/original/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.7"
+    }, {
+        "id": "tt0347149",
+        "title": "Howl's Moving Castle",
+        "year": "(2004)",
+        "image": "https://imdb-api.com/images/original/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt12635162",
+        "title": "Don't Toy with Me, Miss Nagatoro",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BZjk1MTg5YzgtYmEwMS00ZDFkLTllMDQtZDk0NGM1YjIwMjRhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt2230051",
+        "title": "High School DxD",
+        "year": "(2012–2018)",
+        "image": "https://imdb-api.com/images/original/MV5BYjhlYWI2MGUtNjk4ZS00OWJjLWJiZTEtYWYxNTY5MzVhYzI0XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt8788458",
+        "title": "The Promised Neverland",
+        "year": "(2019–2021)",
+        "image": "https://imdb-api.com/images/original/MV5BMTYwYjYyZDgtMTQ3My00YTI4LThmZTUtZmU1MjllOWRlOTdhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt0213338",
+        "title": "Cowboy Bebop",
+        "year": "(1998–1999)",
+        "image": "https://imdb-api.com/images/original/MV5BNGNlNjBkODEtZThlOC00YzUxLWI0MjMtMjk3YzJmMDFlNWZlXkEyXkFqcGdeQXVyNjI0MDg2NzE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.9"
+    }, {
+        "id": "tt3741634",
+        "title": "Tokyo Ghoul",
+        "year": "(2014)",
+        "image": "https://imdb-api.com/images/original/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt0168366",
+        "title": "Pokémon",
+        "year": "(1997– )",
+        "image": "https://imdb-api.com/images/original/MV5BNjU1YjM2YzAtZWE2Ny00ZWNiLWFkZWItMDJhMzJiNDQwMmI4XkEyXkFqcGdeQXVyNTU1MjgyMjk@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt10233448",
+        "title": "Vinland Saga",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BN2UwOTMwMjMtZTE5MS00YmY4LTg4YjAtZDE3ZTg3YTU5MmQ2XkEyXkFqcGdeQXVyODEyMDIxNDY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.8"
+    }, {
+        "id": "tt0214341",
+        "title": "Dragon Ball Z",
+        "year": "(1996–2003)",
+        "image": "https://imdb-api.com/images/original/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.7"
+    }, {
+        "id": "tt0095327",
+        "title": "Grave of the Fireflies",
+        "year": "(1988)",
+        "image": "https://imdb-api.com/images/original/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt0994314",
+        "title": "Code Geass",
+        "year": "(2006–2012)",
+        "image": "https://imdb-api.com/images/original/MV5BYmEyM2VlZWItNWY4Ni00YmY2LWE3YTAtYjljMmU1MWEyYmZiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.7"
+    }, {
+        "id": "tt5323662",
+        "title": "A Silent Voice: The Movie",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt0434665",
+        "title": "Bleach",
+        "year": "(2004–2012)",
+        "image": "https://imdb-api.com/images/original/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt0119698",
+        "title": "Princess Mononoke",
+        "year": "(1997)",
+        "image": "https://imdb-api.com/images/original/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt2250192",
+        "title": "Sword Art Online",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt1910272",
+        "title": "Steins;Gate",
+        "year": "(2011–2015)",
+        "image": "https://imdb-api.com/images/original/MV5BMjUxMzE4ZDctODNjMS00MzIwLThjNDktODkwYjc5YWU0MDc0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.8"
+    }, {
+        "id": "tt0112159",
+        "title": "Neon Genesis Evangelion",
+        "year": "(1995–1996)",
+        "image": "https://imdb-api.com/images/original/MV5BYjY1Y2ZmNDctZWQ3Yy00MTE3LTk2M2QtMjQ0MDA5ODVjMDEyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt13851958",
+        "title": "Vivy: Fluorite Eye's Song",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BZjMwOWJmNDQtNWRkMC00ODhjLTgyMGEtYzI0MjU3ZjBlNTUzXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.6"
+    }],
+    "page_2": [{
+        "id": "tt5607616",
+        "title": "Re: Zero, Starting Life in Another World",
+        "year": "(2016– )",
+        "image": "https://imdb-api.com/images/original/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt0094625",
+        "title": "Akira",
+        "year": "(1988)",
+        "image": "https://imdb-api.com/images/original/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt5249462",
+        "title": "Erased",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BNDFmYjRkZWYtNjgyZS00YTY5LWIyMmQtZTI0OGRiOGM5NGY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt5897304",
+        "title": "Mob Psycho 100",
+        "year": "(2016–2019)",
+        "image": "https://imdb-api.com/images/original/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt0318871",
+        "title": "Berserk",
+        "year": "(1997–1998)",
+        "image": "https://imdb-api.com/images/original/MV5BYWE1YTU4NmYtMTY2Ni00NDIxLTgwMzYtNWJjYWE4MDE5OTE1XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.7"
+    }, {
+        "id": "tt1528406",
+        "title": "Fairy Tail",
+        "year": "(2009–2019)",
+        "image": "https://imdb-api.com/images/original/MV5BMzZjNmRhNWQtNTAyYy00Yjk2LWE0NzUtMmYyNTU0YTE5NjJiXkEyXkFqcGdeQXVyNjI4OTE5OTM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0988818",
+        "title": "Gintama",
+        "year": "(2005–2018)",
+        "image": "https://imdb-api.com/images/original/MV5BMDkxZTJjZTEtMDRjMy00Yzk1LWI5YjItMjIwYmVlYzhlZWZhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt0156887",
+        "title": "Perfect Blue",
+        "year": "(1997)",
+        "image": "https://imdb-api.com/images/original/MV5BMmMzOWNhNTYtYmY0My00OGJiLWIzNDUtZWRhNGY0NWFjNzFmXkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0096283",
+        "title": "My Neighbor Totoro",
+        "year": "(1988)",
+        "image": "https://imdb-api.com/images/original/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt0434706",
+        "title": "Monster",
+        "year": "(2004–2010)",
+        "image": "https://imdb-api.com/images/original/MV5BMzZkOGE4OTItM2RlZi00ZGM5LTlhMDAtZWQxOTlhYTM5NmZkXkEyXkFqcGdeQXVyMTI2OTMwNDcw._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt13248076",
+        "title": "Wonder Egg Priority",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BZWFjMjgzZGYtNWE1MC00MDgwLWIyYWQtNmRiNzNhOTZhYjhjXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt9054364",
+        "title": "That Time I Got Reincarnated as a Slime",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BM2M2NDIzOTItZDA1Yy00M2Q4LTk3ZjctZjZmZjUyZWMxM2YyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt2458948",
+        "title": "Evangelion: 3.0+1.01 Thrice Upon a Time",
+        "year": "(2021)",
+        "image": "https://imdb-api.com/images/original/MV5BMjJiMDE1NzUtY2E1Yy00MDZlLWEyMjYtNTMyYzcyNWMzMTJhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt3895150",
+        "title": "Your Lie in April",
+        "year": "(2014–2015)",
+        "image": "https://imdb-api.com/images/original/MV5BZjE0N2FhZDMtZTM0OS00ZGMyLWFhODItOGVmYzU0Yjg4ZWFlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt0182629",
+        "title": "Rurouni Kenshin",
+        "year": "(1996–1999)",
+        "image": "https://imdb-api.com/images/original/MV5BNmE2M2UxNGQtNmUxOC00ZTcxLTkwN2UtNzA4NzU0ZDQ2ZGU1XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt13616990",
+        "title": "Chainsaw Man",
+        "year": "",
+        "image": "https://imdb-api.com/images/original/MV5BNjRkNWY4YTQtMTM4ZC00MTgzLTliNTAtMGM3NzAzNDAxODRjXkEyXkFqcGdeQXVyODEyMDIxNDY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "-"
+    }, {
+        "id": "tt14069590",
+        "title": "Dota: Dragon's Blood",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BNjVjYmQ4N2QtNzc1Yi00MzI0LTlmNWMtZTU2MjcxYzIwYmY4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt9679542",
+        "title": "Dr. Stone",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BOTI4YWNlNzMtNWU3Yi00OTBmLWEyOTYtZjAyYTM5NWZkMWM4XkEyXkFqcGdeQXVyMTI2NTY3NDg5._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt7078180",
+        "title": "Violet Evergarden",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BZmUzMThjOTItZGY4ZS00ODcwLTliNTMtYjVkM2JmY2QxNmRhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt4731072",
+        "title": "Food Wars",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BODJhZDFjMTItZTZjZC00MGM0LWFlM2UtZTE2MTU4YjE0MzMxXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt3837246",
+        "title": "Assassination Classroom",
+        "year": "(2013–2016)",
+        "image": "https://imdb-api.com/images/original/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0113568",
+        "title": "Ghost in the Shell",
+        "year": "(1995)",
+        "image": "https://imdb-api.com/images/original/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt9522300",
+        "title": "Kaguya-sama: Love is War",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BOTkzZjZiOWItZGM5Ny00N2IxLTg4ZTQtYTBiODhlNmRlM2IxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt0760437",
+        "title": "Ben 10",
+        "year": "(2005–2008)",
+        "image": "https://imdb-api.com/images/original/MV5BMGU1MGQ1YTgtZTdkYi00ODI3LWFjMzItYmZkN2IxMmM0M2M4XkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt0088509",
+        "title": "Dragon Ball",
+        "year": "(1986–1989)",
+        "image": "https://imdb-api.com/images/original/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt9426210",
+        "title": "Weathering with You",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BNzE4ZDEzOGUtYWFjNC00ODczLTljOGQtZGNjNzhjNjdjNjgzXkEyXkFqcGdeQXVyNzE5ODMwNzI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt0876563",
+        "title": "Ponyo",
+        "year": "(2008)",
+        "image": "https://imdb-api.com/images/original/MV5BOTc3YmM3N2QtODZkMC00ZDE5LThjMTQtYTljN2Y1YTYwYWJkXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt9310330",
+        "title": "Yasuke",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BZjI2OGIwNWMtNDdmZS00NzgyLTkwOTctNGRmNmUyNGY3NjNiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.2"
+    }, {
+        "id": "tt13198632",
+        "title": "Hige o Soru. Soshite Joshikousei o Hirou.",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BYmFkMjlhNzUtOGFlOS00YjQwLThkNTAtNjRiN2Q0YjdiODQyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt13103134",
+        "title": "Horimiya",
+        "year": "(I) (2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BZWNiY2IwMGUtYTk1NC00NmE5LWE4NTItYmQyNDJmMGU2MDMwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt10358782",
+        "title": "The Journey",
+        "year": "(II) (2021)",
+        "image": "https://imdb-api.com/images/original/MV5BNDc0YzRiMGEtMTlkNy00ZDI2LWI0MTItMGFhYTM3ZmJhYmVjXkEyXkFqcGdeQXVyMTI5OTIyNzM1._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt3358020",
+        "title": "Parasyte: The Maxim",
+        "year": "(2014–2015)",
+        "image": "https://imdb-api.com/images/original/MV5BZTViMTZlMjgtNjVmZC00NjEzLWJlN2QtMjQ4ZTYxNzBiZmMyXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt3742982",
+        "title": "Akame ga Kill!",
+        "year": "(2014)",
+        "image": "https://imdb-api.com/images/original/MV5BZjU2ZDZkYmMtYTA3Yi00NTZkLTgzYjgtOTRhMTFiOWFkODZmXkEyXkFqcGdeQXVyNjkyODc3NjQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt4644488",
+        "title": "Dragon Ball Super",
+        "year": "(2015–2018)",
+        "image": "https://imdb-api.com/images/original/MV5BY2I2MzI1ODYtMWRlOS00MzdhLWEyOWEtYWJhNmFiZTIxMGJhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt7865090",
+        "title": "Darling in the Franxx",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BZGVlY2ZhM2ItMWIwZC00YjU0LWJjNjAtZGVlNWJkM2JmZjhmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt0421357",
+        "title": "Fullmetal Alchemist",
+        "year": "(2003–2004)",
+        "image": "https://imdb-api.com/images/original/MV5BMjYwNDlhMWYtMWE1ZS00ZjVhLWI1NzItMjQ5ZGI4NTIwZjQ5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt0169858",
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "year": "(1997)",
+        "image": "https://imdb-api.com/images/original/MV5BZjJhMThkNTQtNjkxNy00MDdjLTg4MWQtMTI2MmQ3MDVmODUzXkEyXkFqcGdeQXVyMTAwOTA3NzY3._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt6357658",
+        "title": "Baki",
+        "year": "(2018–2020)",
+        "image": "https://imdb-api.com/images/original/MV5BMmQxZmRmNmUtZWUxNi00NzhiLWEwNzEtZTUyZWRhOWY5Yjg2XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt6660498",
+        "title": "Devilman: Crybaby",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BZjYxMGRlZDAtYTU5Ny00NzhmLTgzYzgtNjNjNTZiZDQ5ZjU0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt7131720",
+        "title": "Kakegurui",
+        "year": "(2017– )",
+        "image": "https://imdb-api.com/images/original/MV5BMmRhZDI4ODItYTAzMC00NWQ1LTk1MTctZWYyMDY3ZTU3NWFiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt8993398",
+        "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BMGQ1ZjYzOGQtOWFhNy00YzQwLWEyYmItZGYwODQ4NDU3MDhlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt0097814",
+        "title": "Kiki's Delivery Service",
+        "year": "(1989)",
+        "image": "https://imdb-api.com/images/original/MV5BOTc0ODM1Njk1NF5BMl5BanBnXkFtZTcwMDI5OTEyNw@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt12831098",
+        "title": "Moriarty the Patriot",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BMjFiMzkzMTMtZWJlMi00OTA2LTg5MWYtMGNhMzM4NTVlMGMzXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0087544",
+        "title": "Nausicaä of the Valley of the Wind",
+        "year": "(1984)",
+        "image": "https://imdb-api.com/images/original/MV5BZTI3NmJmYTQtNDg4NS00M2VlLTgzZDAtZWIwZDcyOWY5YzIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt5679720",
+        "title": "Bungou Stray Dogs",
+        "year": "(2016– )",
+        "image": "https://imdb-api.com/images/original/MV5BYThmNzJiM2UtOTdhZS00MWU0LWI2NTEtMDEwN2JlNDJmNzVmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt0851578",
+        "title": "Paprika",
+        "year": "(2006)",
+        "image": "https://imdb-api.com/images/original/MV5BNDliMTMxOWEtODM3Yi00N2QwLTg4YTAtNTE5YzBlNTA2NjhlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt9307686",
+        "title": "Fire Force",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BY2IyMDA0NGEtZjIyOS00NjU0LThlOTctODA0OTZmMDU2ZTMxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt1622696",
+        "title": "Ben 10: Ultimate Alien",
+        "year": "(2010–2012)",
+        "image": "https://imdb-api.com/images/original/MV5BNzgxYjcwNDUtZTcxZS00NmIyLWI3OTAtNTQ3NzZjM2RkMTFkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_Ratio0.8000_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt8515016",
+        "title": "Banana Fish",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BYzZmNWJmMjctNTFhMy00MDZhLThiZTgtMjU5YmI2OTE2MGRkXkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt2013293",
+        "title": "The Wind Rises",
+        "year": "(2013)",
+        "image": "https://imdb-api.com/images/original/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }],
+    "page_3": [{
+        "id": "tt9789660",
+        "title": "Transformers: War for Cybertron Trilogy",
+        "year": "(2020–2021)",
+        "image": "https://imdb-api.com/images/original/MV5BNzRkNjllZjktZTkwZC00YTgxLTlmMWEtZWYzYzUwODQ0NzZiXkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt9826344",
+        "title": "Why the Hell are You Here, Teacher!?",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BYmJjYjJhOWMtYmU4OS00YjcwLWI1ODctMGQ4MWNiOTE0NGZhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.4"
+    }, {
+        "id": "tt2379308",
+        "title": "Psycho-Pass",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BMmM5MWZkMWMtNmY3Yy00NDNkLTkyY2QtN2ViZDk4NjlmNjBhXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt13293588",
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt11043632",
+        "title": "Beastars",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BNTc4MmE4MGYtNWIwNC00MjdkLTkxMDYtZjkyZTgzNTRkMmIxXkEyXkFqcGdeQXVyODEyMDIxNDY@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt7236034",
+        "title": "I Want to Eat Your Pancreas",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BYWJiZjViZTgtZmU0OC00NDU1LWFkZWUtYzc5NmY4NDkzNDg4XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt9529546",
+        "title": "The Rising of the Shield Hero",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BNTQ1ZGVjODAtNWYzZS00ZmZiLWExYjEtNmM1MjI2OTk1YWY3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt2293002",
+        "title": "Ben 10: Omniverse",
+        "year": "(2012–2014)",
+        "image": "https://imdb-api.com/images/original/MV5BMTdiYTlmY2QtZDM2OS00MzY1LWJlZTMtMGI3MGMyMGJhZTEyXkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6"
+    }, {
+        "id": "tt14134550",
+        "title": "Oddtaxi",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BNTViNDBkZDYtZGVmZS00MDFlLTgzZmQtZjgyZTA1OWViZDFiXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt13352232",
+        "title": "Tenkuu Shinpan",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BNTU0ZGYzMjktMWQ2MC00NmRlLTk1YWItZmJkZmRiYzQ1NDE5XkEyXkFqcGdeQXVyMjIwNTI1MTM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt2348803",
+        "title": "Kuroko's Basketball",
+        "year": "(2012–2015)",
+        "image": "https://imdb-api.com/images/original/MV5BNTdkOWI0NmYtMWIzYy00ZTJmLTkxZmQtYjZjMGM5ODJiZDM0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt0092067",
+        "title": "Castle in the Sky",
+        "year": "(1986)",
+        "image": "https://imdb-api.com/images/original/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt8433216",
+        "title": "Super Dragon Ball Heroes",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BOGM0YmJlNGItOTVlNi00NjViLWFiMDAtNzE3MDk0YThjOTVhXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt4219258",
+        "title": "The Testament of Sister New Devil",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BZTZmNmY1MDMtNzM4OC00Nzc5LWE1ZmUtYjNmNDMwMGIyZjg5L2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt11448214",
+        "title": "Rent-a-Girlfriend",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BODdmM2VhY2QtMmIyNy00YTk0LTg3NWEtNTllNGEzMjUyOGY5XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt0131179",
+        "title": "Detective Conan",
+        "year": "(1996– )",
+        "image": "https://imdb-api.com/images/original/MV5BNjU5NGY1NzYtNmIwYy00N2EzLTk1NzktOTM0ZjJjMjk0ZGYyXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt4728568",
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BY2JhZThjMjAtMjA5Yi00ZTIxLTljODctZDgxMzdlMzA2YjllXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt1568921",
+        "title": "The Secret World of Arrietty",
+        "year": "(2010)",
+        "image": "https://imdb-api.com/images/original/MV5BZDY3ZGI0ZDAtMThlNy00MzAxLTg4YjAtNjkwYTkxNmQ4MjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt0423731",
+        "title": "Samurai Champloo",
+        "year": "(2004–2005)",
+        "image": "https://imdb-api.com/images/original/MV5BOWNhMDMyMDYtNzJlOS00YzhhLWFiMjktYWY1MzMzZGZhOGRjXkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt7222086",
+        "title": "Made in Abyss",
+        "year": "(2017– )",
+        "image": "https://imdb-api.com/images/original/MV5BODNhNTYyODgtOWU5NS00Y2M4LTg5YzAtNzZlMTFiYjE0NTIxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt6354518",
+        "title": "The Disastrous Life of Saiki K.",
+        "year": "(2016– )",
+        "image": "https://imdb-api.com/images/original/MV5BMTlkNzg4NzktNjgxZC00ZjUwLWFjOGYtNmJkMzY4Y2U4NzNkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjM1ODczNDE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt1685401",
+        "title": "Highschool of the Dead",
+        "year": "(2010)",
+        "image": "https://imdb-api.com/images/original/MV5BM2IzYTg0OGEtZDg3NS00ZWU5LWE4MmEtMDI3ZjExYzdmNTRkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt13334002",
+        "title": "Army of the Dead: Lost Vegas",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "imDbRating": "-"
+    }, {
+        "id": "tt5370118",
+        "title": "Konosuba: God's Blessing on This Wonderful World!",
+        "year": "(2016–2017)",
+        "image": "https://imdb-api.com/images/original/MV5BNDNiOWM5NGItNzY4NC00MDg1LTljZjctYzViNmRlOTNhOWM2XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt9458304",
+        "title": "Dororo",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BMjk5ODQ1NmYtOGFkMS00ODAzLWFlMjItYmM0ODU2OWY3ZTU2XkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt1192169",
+        "title": "Ben 10: Alien Force",
+        "year": "(2008–2010)",
+        "image": "https://imdb-api.com/images/original/MV5BYmQwYTc1ZDEtMzU3My00OTIzLWE1YmEtYmUyMmMzZTI2ZWNlXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt0113824",
+        "title": "Whisper of the Heart",
+        "year": "(1995)",
+        "image": "https://imdb-api.com/images/original/MV5BZDg0MWNmNjktMGEwZC00ZDlmLWI1MTUtMDBmNjQzMWM2NjBjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt9584920",
+        "title": "The Quintessential Quintuplets",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BMDA0Y2NmYzAtYjQxMC00MjY2LTg4ZjItMDUwMTUyOTNlODM0XkEyXkFqcGdeQXVyNDMxMDE4MDA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt2051178",
+        "title": "Fate/Zero",
+        "year": "(2011–2012)",
+        "image": "https://imdb-api.com/images/original/MV5BMDNiZjIzMzYtMDg1Zi00ZjM3LWFlZjUtZmNhMTQ1MDU3ODU0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt4869896",
+        "title": "Overlord",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BOTFlY2NkOWItNTI3Yy00NDA5LTkzOTQtZGVmNDJlMzM4OGJlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt10635042",
+        "title": "Sailor Moon Eternal",
+        "year": "(2021)",
+        "image": "https://imdb-api.com/images/original/MV5BZTY1Mzg0YjctOTlmYi00MjhhLTllZmItYTA2Y2Y3ZTdkNmY5XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt8213522",
+        "title": "Tokyo Ghoul: re",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BY2M4MGVjODgtYmY4OS00N2U4LTlkNzUtY2NjYzRiMTI3YjgwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt11147852",
+        "title": "Dorohedoro",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BYzgxOTkxYWYtODEzMS00ODhiLWIxMTYtMDQwNmIyNmIwNTJiXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt0249327",
+        "title": "Yu-Gi-Oh!",
+        "year": "(I) (2000–2006)",
+        "image": "https://imdb-api.com/images/original/MV5BMDM0MDA3NzYtMDE1MS00YjZmLWJmNjQtNzgxYzlhMmMyZjQ2XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt10545250",
+        "title": "Eden",
+        "year": "(I) (2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BODI4NDYwOWItZjNmMC00MTNiLWIyMjQtNzk2NjdiNWM4NGRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt4831392",
+        "title": "Monster Musume: Everyday Life with Monster Girls",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BNjQ1NjgyZWItOWJiMC00NjU5LTgzNGMtNzg3YjZjMWNiMDRiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt9058134",
+        "title": "Kengan Ashura",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BOGZhNjVmZmYtNDU1NS00M2RlLWE2ZTktOGU3NjNhYWFlODc3XkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt3225270",
+        "title": "Noragami",
+        "year": "(2014–2016)",
+        "image": "https://imdb-api.com/images/original/MV5BMjY1MjU5MjQtZWFiNi00MjE0LTk1ZTktY2RhNzc1OWQ1M2FjXkEyXkFqcGdeQXVyNTk5NTQ1NzM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt3114390",
+        "title": "Kill la Kill",
+        "year": "(2013–2014)",
+        "image": "https://imdb-api.com/images/original/MV5BMzgyZjUyZTMtYzlkNC00NWEwLTg1YTQtNzI4MWJlOWM1YjU5XkEyXkFqcGdeQXVyNjgxNzAxNTc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt0495212",
+        "title": "Hellsing Ultimate",
+        "year": "(2006–2012)",
+        "image": "https://imdb-api.com/images/original/MV5BYTU5ZWExZjktMmI5MC00MjUwLTk0MjAtNDExMDk1ZDUzZWY3XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt0114327",
+        "title": "Sailor Moon",
+        "year": "(1995–2000)",
+        "image": "https://imdb-api.com/images/original/MV5BZDI4MmMyMjgtNjgxMi00NDU4LTliOGUtMzgxNDE3ZmIxM2NkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt13129190",
+        "title": "SK8 the Infinity",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BYTUzM2YyNGYtYTY4ZS00MDVmLWIyYWMtYmU3MDgxZDU1NjU4XkEyXkFqcGdeQXVyMTI4MTE3MTY4._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt0290223",
+        "title": "Inuyasha",
+        "year": "(2000–2004)",
+        "image": "https://imdb-api.com/images/original/MV5BMGNmMWI4MGUtYmU0ZS00ZDkxLTgzMTAtZDU4YmQ1MDM3Y2IyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt4967674",
+        "title": "Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BMjQ4MzE2MjAtNmNhYS00M2ZkLWI2MTAtNTNhYzVkN2VhOWI5XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt9288848",
+        "title": "Pacific Rim: The Black",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BNmEwNmQyMDAtMjIyNi00M2Q4LWIwNTYtNGEwZTYzYmFmYTc3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt0480489",
+        "title": "Erufen rîto",
+        "year": "(2004)",
+        "image": "https://imdb-api.com/images/original/MV5BMDU1ZmQwZTQtZjg1OS00YzhhLWE0MTEtYjYxNzdkNzk2NWVkXkEyXkFqcGdeQXVyNTk5NTQ1NzM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt8438524",
+        "title": "How NOT to Summon a Demon Lord",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BZjQ5MmI3ZjQtNjM3Ny00MTk4LWEyNmUtYTk1MTJmNTY4YWRlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt0962826",
+        "title": "Black Lagoon",
+        "year": "(2006)",
+        "image": "https://imdb-api.com/images/original/MV5BNWI2OTNlMDEtNGQ4Ny00ZTk3LWExOTMtYmJiMGJiNzgxMzVmXkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt9817980",
+        "title": "Domestic Girlfriend",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BM2RmZmI2NmUtNDhjMi00MGQ4LWIyYTEtZmMxM2E1ZjBkYTU0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt0104652",
+        "title": "Porco Rosso",
+        "year": "(1992)",
+        "image": "https://imdb-api.com/images/original/MV5BZjVkYmFkZWQtZmNjYy00NmFhLTliMWYtNThlOTUxNjg5ODdhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "7.7"
+    }],
+    "page_4": [{
+        "id": "tt8336340",
+        "title": "Star Wars Resistance",
+        "year": "(2018–2020)",
+        "image": "https://imdb-api.com/images/original/MV5BMTkyMTc3NjAwNF5BMl5BanBnXkFtZTgwNTU1ODIyNjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "5"
+    }, {
+        "id": "tt8690728",
+        "title": "Goblin Slayer",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BN2U2OWQ5YTUtZTRlYS00M2I2LTk3MzEtNTQ0OTNiNGY3ZTc3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt7965802",
+        "title": "Megalo Box",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BMGY2ZTVlNTYtNWUwNi00YzlmLTkzN2QtMWViYzE1MmJjYjNhXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt1316554",
+        "title": "Black Butler",
+        "year": "(2008– )",
+        "image": "https://imdb-api.com/images/original/MV5BNzE3MmQ4ZjEtYmQxNC00MWJmLWJkMGItYWQwNTk2ZmJlZTgxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt0275277",
+        "title": "Cowboy Bebop: The Movie",
+        "year": "(2001)",
+        "image": "https://imdb-api.com/images/original/MV5BMjYzYWM4YTItZjJiMC00OTM5LTg3NDgtOGQ2Njk2ZWNhN2QwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt4917066",
+        "title": "Prison School",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BZDQzYmM5MWItNTEyYy00YWEyLTk0Y2YtNTYxODliZDdlOWMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt3398268",
+        "title": "When Marnie Was There",
+        "year": "(2014)",
+        "image": "https://imdb-api.com/images/original/MV5BZTlmYTJmMWEtNDRhNy00ODc1LTg2OTMtMjk2ODJhNTA4YTE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt13370404",
+        "title": "Redo of Healer",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BZDg5OTgzNTEtMDJmOS00MWMzLWFmYmQtNTNlZjg5YjI1YjRiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.3"
+    }, {
+        "id": "tt1279024",
+        "title": "Toradora!",
+        "year": "(2008–2009)",
+        "image": "https://imdb-api.com/images/original/MV5BNWEwMjE2MjQtZTQ3NC00OTUxLWEwMWUtMThjZjg4Zjc5ZDYwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt5847454",
+        "title": "Beruseruku",
+        "year": "(2016–2017)",
+        "image": "https://imdb-api.com/images/original/MV5BZDE0YzhiMmMtMTZhYi00ZTg0LWIxMjQtMTllYTVlOGUyNjkwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt11193002",
+        "title": "The Stranger by the Beach",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BZDc2YWRlZDYtMzg5Yy00ZDE5LTg2NjUtOWFkMTdlYWQyODE2XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt2591814",
+        "title": "The Garden of Words",
+        "year": "(2013)",
+        "image": "https://imdb-api.com/images/original/MV5BZDFlYTk5NTQtYTkxMC00NWIyLThiOTYtNjZjYTJhMWJhM2NiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt5923962",
+        "title": "Gantz: O",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BZmRiNWVmZDctM2Q2Ny00NzMwLTkwYTItMmU0ZmE5MDUwNTBiL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt2703720",
+        "title": "My Teen Romantic Comedy SNAFU",
+        "year": "(2013– )",
+        "image": "https://imdb-api.com/images/original/MV5BYzRkMWFkNGMtMzQ0Zi00MWQ2LTk1MjgtODJkZjY3NTQyYTQzXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt0203082",
+        "title": "Rurouni Kenshin: Trust and Betrayal",
+        "year": "(1999)",
+        "image": "https://imdb-api.com/images/original/MV5BM2FiOWE5MjctNWMxMC00ZTE5LWFmMGMtNzVlZjRhZDMzNTFmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt0805815",
+        "title": "Cory in the House",
+        "year": "(2007–2008)",
+        "image": "https://imdb-api.com/images/original/MV5BOTA4N2I2MjMtNzFjMi00YzMzLWEwOTctODFmNzQxYTFiNDQ2XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "5.1"
+    }, {
+        "id": "tt0185133",
+        "title": "Yu Yu Hakusho: Ghost Files",
+        "year": "(1992–1995)",
+        "image": "https://imdb-api.com/images/original/MV5BYjBlYmVmNzYtZTY5Ni00NTc0LTljODMtMzExMGRiY2YxYzcyXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt12502782",
+        "title": "Shaman King",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BNDFlYThkZmEtNGIwMC00MTU3LThiM2YtNWUyMTI4Y2I0MWE1XkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt0983213",
+        "title": "5 Centimeters Per Second",
+        "year": "(2007)",
+        "image": "https://imdb-api.com/images/original/MV5BODJhZDU1MDYtMDQ0NS00N2JmLWI2ZDAtMGNmN2RmNWJhNzQ5L2ltYWdlXkEyXkFqcGdeQXVyNjY1OTY4MTk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt7961060",
+        "title": "Dragon Ball Super: Broly",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BMjhhMDU5Y2QtMzcyZS00ZGE1LTg3ZjMtMTYyOTM0OTFlYTRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt0426719",
+        "title": "Hunter x Hunter",
+        "year": "(1999–2001)",
+        "image": "https://imdb-api.com/images/original/MV5BMWY2OTQwNWUtZWUxYy00OGUzLTkxMmYtNzE4ZTI0ZTBlYTU5XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt11680468",
+        "title": "Great Pretender",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BNjk0MzAxY2YtYzIwNy00NWM4LWI4MDctM2YyYWYzZjJiNDE5XkEyXkFqcGdeQXVyNzQzNDM3NTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt2176165",
+        "title": "Another",
+        "year": "(2012)",
+        "image": "https://imdb-api.com/images/original/MV5BNWYzNmZmMTUtNzI1YS00NTYwLWIxYWQtMThmYjY1Y2MwZDc2XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt0092106",
+        "title": "The Transformers: the Movie",
+        "year": "(1986)",
+        "image": "https://imdb-api.com/images/original/MV5BZGM1MGY4OTYtOGZkOC00NjYyLTk3OTMtODUyZDdhYWQ3NGFjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt0948103",
+        "title": "Tengen Toppa Gurren Lagann",
+        "year": "(2007–2008)",
+        "image": "https://imdb-api.com/images/original/MV5BNWIyN2I4ZDAtMWI0OC00ZTA5LTk3ZDItM2M1MDEzMmZmZjljXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt0121220",
+        "title": "Dragon Ball Z",
+        "year": "(1989–1996)",
+        "image": "https://imdb-api.com/images/original/MV5BMGMyOThiMGUtYmFmZi00YWM0LWJiM2QtZGMwM2Q2ODE4MzhhXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.7"
+    }, {
+        "id": "tt3621796",
+        "title": "Fate/stay night: Unlimited Blade Works",
+        "year": "(2014– )",
+        "image": "https://imdb-api.com/images/original/MV5BOTg5ZjI5ZTAtOWE2OS00MjY4LWI4ZDQtMzEzMDY4MTgzYWJlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt10472884",
+        "title": "Rascal Does Not Dream of Bunny Girl Senpai The Movie",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BYjJmZGUyYmItNzBmNi00MTc0LTljNmUtNWU0NGYxZjVmYTUxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt0103369",
+        "title": "Sailor Moon",
+        "year": "(1992–1997)",
+        "image": "https://imdb-api.com/images/original/MV5BYTFiYWIwOTgtM2EyNi00YWI4LWIwMWEtN2VhYzE5YWQwOWE2XkEyXkFqcGdeQXVyNjExMTQ4MjA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt3431758",
+        "title": "No Game, No Life",
+        "year": "(2014)",
+        "image": "https://imdb-api.com/images/original/MV5BZTI1MjY3N2YtODczMy00MGQwLWI2NWMtODQwZTE3NTY5OTExXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt0347618",
+        "title": "The Cat Returns",
+        "year": "(2002)",
+        "image": "https://imdb-api.com/images/original/MV5BYThhZDdiMjItYzRkNy00OTE3LTk5ZDEtMzUwNzE1ZmJkMTYzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt5595168",
+        "title": "Kingsglaive: Final Fantasy XV",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BOTEwNzMxNTU5M15BMl5BanBnXkFtZTgwMzMyMjg3OTE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt0328738",
+        "title": "Fruits Basket",
+        "year": "(2001)",
+        "image": "https://imdb-api.com/images/original/MV5BNDVkMzZmMjgtMzM0Yi00ZjBmLWE2MzgtYzBiYjEyNmYzODIzXkEyXkFqcGdeQXVyNzI1MDI1NDU@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt12227418",
+        "title": "The God of High School",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BYjljYmYzNjMtZWY5YS00OGZjLTk4MTYtNDZmYzkxYjgyMDMzXkEyXkFqcGdeQXVyODM2NjQzOTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt4279012",
+        "title": "Death Parade",
+        "year": "(2015)",
+        "image": "https://imdb-api.com/images/original/MV5BOWExOTEzZWYtYWJhMS00OTM5LWI1M2EtODZiYzE4ZDQ4ZGJkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt2069441",
+        "title": "Future Diary",
+        "year": "(2011–2013)",
+        "image": "https://imdb-api.com/images/original/MV5BMjExOWYzMTQtMjYzNi00MmU0LWJiZDctMmNmZmFhNGI5MWI0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt2140203",
+        "title": "Wolf Children",
+        "year": "(2012)",
+        "image": "https://imdb-api.com/images/original/MV5BYzQxNDZhNDUtNDUwOC00NjQyLTg2OWUtZWVlYThjYjYyMTc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt13357124",
+        "title": "The Way of the Househusband",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BOWZhZTE1NDAtODQ5Yy00NDQ3LWE5ZDctMTZjZmU5OGFiZWYwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt10479420",
+        "title": "Given",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BM2ZkNzgwNzUtMzVkOC00MjUwLWI4YmMtNmViNTcxODZkM2EwXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt0280249",
+        "title": "Dragon Ball",
+        "year": "(1995–2003)",
+        "image": "https://imdb-api.com/images/original/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.8000_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt0500092",
+        "title": "Serial Experiments Lain",
+        "year": "(1998)",
+        "image": "https://imdb-api.com/images/original/MV5BYWY1MWJjODYtMjk5Yy00OGY3LWFjNjctMjJlMDBiMmI0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt10777610",
+        "title": "Jibaku Shounen Hanako-kun",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BYTFkYWRlZTctZTJhYS00ZWFlLTk4OTUtNTllMGNiNWYxZGY0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt1799631",
+        "title": "Blue Exorcist",
+        "year": "(2011–2012)",
+        "image": "https://imdb-api.com/images/original/MV5BNjYyMjhiNTYtN2M3Yy00NTlhLWJkMmEtMzVhOGEyMzNjNTNhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt7745068",
+        "title": "My Hero Academia: Two Heroes",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BYjViOWY3YTQtNTliOC00NzkwLTllMGMtMjNiZTU0MmZjZTgzXkEyXkFqcGdeQXVyODgzNTQ1NTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt5514358",
+        "title": "Steins;Gate 0",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BYmJhMDYzYzMtNTVlZS00MzgwLWE3ZjAtN2FhZTBlOGQzZmFmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt0816397",
+        "title": "Ouran High School Host Club",
+        "year": "(2006)",
+        "image": "https://imdb-api.com/images/original/MV5BNzAwZDlmMjctMzkwMC00Y2U3LTlmOGUtNGY2MTc5MzFhZjk0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt0096633",
+        "title": "Legend of the Galactic Heroes",
+        "year": "(1988–1997)",
+        "image": "https://imdb-api.com/images/original/MV5BYjU3ZjBhYTAtZjY0ZC00YjI2LWE3NzItMTk0ZjUyMGMzZGNkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "9.1"
+    }, {
+        "id": "tt0495596",
+        "title": "Tales from Earthsea",
+        "year": "(2006)",
+        "image": "https://imdb-api.com/images/original/MV5BZGFlN2FhYTktZGYzNi00MzllLWFlOTAtY2ExNjRjZjhkZWM2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.4"
+    }, {
+        "id": "tt0107692",
+        "title": "Ninja Scroll",
+        "year": "(1993)",
+        "image": "https://imdb-api.com/images/original/MV5BOTMyZGI4N2YtMzdkNi00MDZmLTg4NmItMzg0ODY5NjdhZjYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt12598008",
+        "title": "So I'm a Spider, So What?",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BM2U1ZDAyOGItNmY0Mi00YTE4LWJiMGItYTk5YjRjOWRiN2RkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }],
+    "page_5": [{
+        "id": "tt13758670",
+        "title": "Combatants Will Be Dispatched!",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BNzRkZmM0M2QtZDBmMi00ODU0LWI0OWMtOTUzMWRhZDYwODc3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt12287748",
+        "title": "Yashahime: Princess Half-Demon",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BNWY4MGIxMmUtNzFhZi00MmU0LWI5ZmMtMDNlNjgxMGJlZjhlXkEyXkFqcGdeQXVyMzExMzk5MTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt1798188",
+        "title": "From Up on Poppy Hill",
+        "year": "(2011)",
+        "image": "https://imdb-api.com/images/original/MV5BZmFjMTYwODAtMTUzZi00NWUzLWIzMjUtYTNiZTE2MzNlMjNiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt7263328",
+        "title": "Classroom of the Elite",
+        "year": "(2017– )",
+        "image": "https://imdb-api.com/images/original/MV5BYzk0YTdlNGQtNzNiYy00MmM4LTk0YmQtYmNlNWQ2MjlkMTQ3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt2576852",
+        "title": "The Tale of The Princess Kaguya",
+        "year": "(2013)",
+        "image": "https://imdb-api.com/images/original/MV5BNThmMWMyMWMtOWRiNy00MGY0LTg1OTUtNjYzODg2MjdlZGU5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt2061702",
+        "title": "To the Forest of Firefly Lights",
+        "year": "(2011)",
+        "image": "https://imdb-api.com/images/original/MV5BM2FkZjM5ODUtMGM0OC00ZTk2LWFjZDYtNmIzMGRhZWY0MjExXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt6112556",
+        "title": "Yuri!!! On Ice",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BMjU5OGIyM2EtOGViMi00Y2U5LWI0MDItYTM3MDNhOGMzNmE3XkEyXkFqcGdeQXVyNjkyMTU2NDM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt1409055",
+        "title": "Dragon Ball Z Kai",
+        "year": "(2009–2015)",
+        "image": "https://imdb-api.com/images/original/MV5BNWRlNWI5ZmQtMWU2NC00ZDYzLThkOWMtYTA2NWJjZWZjMGI5XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt3066242",
+        "title": "RWBY",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BOTM4MTllODUtNTQzOS00ZDVlLWIyMjAtMzI1OGZmZWY1NGMxXkEyXkFqcGdeQXVyMjIxNjY2NjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt1214085",
+        "title": "Soul Eater",
+        "year": "(2008–2009)",
+        "image": "https://imdb-api.com/images/original/MV5BNTdiNTJmMzktZmE2MC00OWUxLWE1MjktMTdhN2Q1OWNlODY1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.8400_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt2404499",
+        "title": "Kingdom",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BYWM0NjQxYmEtMDQ4MS00MWI3LTk2NzEtODk2ODE0OGZhOWNiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt2575684",
+        "title": "Date a Live",
+        "year": "(2013– )",
+        "image": "https://imdb-api.com/images/original/MV5BNjhhMWZkYzItZWZiMy00MjdlLWIxNjQtZGFlMGQ4YzVmNTAyL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt2340841",
+        "title": "Hyouka",
+        "year": "(2012)",
+        "image": "https://imdb-api.com/images/original/MV5BMTcwNjUwNDctNzI5Ni00MDg1LWE0YTEtODRhYTMxZTA5OGRjXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt12432936",
+        "title": "The Misfit of Demon King Academy",
+        "year": "(2020–2022)",
+        "image": "https://imdb-api.com/images/original/MV5BNzUwNzc0NTEtOTdhMi00NmQ2LWI2NGUtZWU0Yzc3MWViOGRhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt1634208",
+        "title": "Maid Sama!",
+        "year": "(2010– )",
+        "image": "https://imdb-api.com/images/original/MV5BNWJkYzM4MWQtZWE2Mi00NmJkLTg5ZmUtNzNlMGYzOWYwYzE4XkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0079833",
+        "title": "Lupin III: The Castle of Cagliostro",
+        "year": "(1979)",
+        "image": "https://imdb-api.com/images/original/MV5BYzYyNjg3OTctNzA2ZS00NjkzLWE4MmYtZDAzZWQ0NzkyMTJhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt4584326",
+        "title": "Owari no serafu",
+        "year": "(2015)",
+        "image": "https://imdb-api.com/images/original/MV5BZTNlYmU1MmItMGFiNi00MjUxLThlOWMtMzgxMzIyNzk3ODgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt0385700",
+        "title": "Final Fantasy VII: Advent Children",
+        "year": "(2005)",
+        "image": "https://imdb-api.com/images/original/MV5BNTk4NjBhZTUtN2MwMy00MzIyLWFhN2ItMmUwYzQ4MWQxODM3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt3124992",
+        "title": "Sailor Moon Crystal",
+        "year": "(2014– )",
+        "image": "https://imdb-api.com/images/original/MV5BMTVhNTEzM2ItYjk3ZC00ODRjLWIwZDQtN2JjMTQ0YWVlZGFiXkEyXkFqcGdeQXVyMzc5ODkzNDE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0071203",
+        "title": "Belladonna of Sadness",
+        "year": "(1973)",
+        "image": "https://imdb-api.com/images/original/MV5BOWE5YTI3ZTEtNThlZC00MTMyLWE5NTgtMTgzMGY2MmI3Y2YyXkEyXkFqcGdeQXVyNjA5MTUyNDI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt5776208",
+        "title": "Resident Evil: Vendetta",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BMTg0OTQ0ODY1N15BMl5BanBnXkFtZTgwNjkxNjI4MTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.3"
+    }, {
+        "id": "tt13362302",
+        "title": "Shadows House",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BOTg3MTIyYWQtNTcwYy00MTgzLWI3OWQtMzM2NGRmZjQ4MjQzXkEyXkFqcGdeQXVyNjI2ODQwOTM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt4618398",
+        "title": "Boruto: Naruto The Movie",
+        "year": "(2015)",
+        "image": "https://imdb-api.com/images/original/MV5BNDIwYjg5YzItZTJmMC00YjJhLWFiNjYtMDU5MmQxOTQxODM2XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt3592708",
+        "title": "Blue Spring Ride",
+        "year": "(2014– )",
+        "image": "https://imdb-api.com/images/original/MV5BZmM3Mzg2NTEtYzdhYi00ZTIzLWJkZWMtODJiNzYyMGM2ZjRlXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt0113799",
+        "title": "Memories",
+        "year": "(1995)",
+        "image": "https://imdb-api.com/images/original/MV5BOTVlMGEwM2EtZjNkNi00ZjdiLWEzNzItMjE4MjlmODI3YTgxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt12311976",
+        "title": "TONIKAWA: Over the Moon for You",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BZmI0OTI1OWQtYzRkNy00NGVlLWFhYzAtNzAzNWRkNjE0ZThiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt1117563",
+        "title": "Batman: Gotham Knight",
+        "year": "(2008 Video)",
+        "image": "https://imdb-api.com/images/original/MV5BM2I0YTFjOTUtMWYzNC00ZTgyLTk2NWEtMmE3N2VlYjEwN2JlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt0098692",
+        "title": "Wicked City",
+        "year": "(1987)",
+        "image": "https://imdb-api.com/images/original/MV5BMDNjMzZhMTktMzJlNy00ZWRmLTg1NzktNDQyZjVkNDAyODIwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt3613454",
+        "title": "Zankyou No Terror",
+        "year": "(2014)",
+        "image": "https://imdb-api.com/images/original/MV5BMDMzNGEyNzItOTEyYi00MzQxLTgxOGQtZGJkZTRmNjUzN2Y3XkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt2902582",
+        "title": "Danganronpa: The Animation",
+        "year": "(2013)",
+        "image": "https://imdb-api.com/images/original/MV5BNGJjMmNjM2EtMDAyMi00NTVlLTk1OTAtYjdhMmNkZTVlMTNhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt0102587",
+        "title": "Only Yesterday",
+        "year": "(1991)",
+        "image": "https://imdb-api.com/images/original/MV5BMTY5NjI2MjQxMl5BMl5BanBnXkFtZTgwMDA2MzM2NzE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt4574736",
+        "title": "Charlotte",
+        "year": "(2015–2016)",
+        "image": "https://imdb-api.com/images/original/MV5BNDYwNjdjYjktOWMyYS00NmNlLTgwYWItYzNjZGNmNjFjNDk2L2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt5100366",
+        "title": "Chivalry of a Failed Knight",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BMzkwMDU4ODctZDUwZi00MDM3LWI4NTYtMWI1OTUxNzcxZjQzXkEyXkFqcGdeQXVyNTc3MDU1MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt0251439",
+        "title": "Trigun",
+        "year": "(1998)",
+        "image": "https://imdb-api.com/images/original/MV5BNjMyYzg4NDMtYmE1OC00YzAxLTlhZGMtNjIyMWZkZjQyOWZhXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt2321542",
+        "title": "Love, Chunibyo & Other Delusions",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BOGJlZjU5YTAtYjkxMS00YWVhLWFjM2MtNDY3YTc2ZjJhMjM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt0328832",
+        "title": "The Animatrix",
+        "year": "(2003 Video)",
+        "image": "https://imdb-api.com/images/original/MV5BZDEwMGYxNjEtNTE3ZC00Zjg3LThlODMtODVhNzBiMTQ3NGI5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt0810705",
+        "title": "Nana",
+        "year": "(2006–2007)",
+        "image": "https://imdb-api.com/images/original/MV5BZDI2MzAwMmItOTYwNy00ZDg4LTg0YzMtMzcwNjgwYTkwYTcyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt5497534",
+        "title": "Tokyo Ghoul: Root A",
+        "year": "(2015)",
+        "image": "https://imdb-api.com/images/original/MV5BOWZmMDdhNTktZTRlZC00YzExLTk2ZTAtM2IxNjc4YzBlYmY0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt0923811",
+        "title": "Evangelion: 1.0 You Are (Not) Alone",
+        "year": "(2007)",
+        "image": "https://imdb-api.com/images/original/MV5BMzRjMjg3ZTMtMTk4Yy00YjRhLWI4ZWQtM2JhYjZlNTViNWYzXkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt10621032",
+        "title": "Lupin III: The First",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BOGIyMmRiZWItZTQ1Yi00OGQzLTk5YzItOGYzOTQ0NGI5MDBiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt0414766",
+        "title": "Rebelde",
+        "year": "(2004–2006)",
+        "image": "https://imdb-api.com/images/original/MV5BZTQ5ODM1YjEtYWEyZC00MmU2LWFlM2UtNDZiYjE0MWE5ZThiXkEyXkFqcGdeQXVyODI0ODg4MDY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt1913273",
+        "title": "Anohana: The Flower We Saw That Day",
+        "year": "(2011)",
+        "image": "https://imdb-api.com/images/original/MV5BYmQ5Y2RiOTAtMzg2Ni00MzE0LWE0NTItNzExNmMzOGQyY2NjL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt10766468",
+        "title": "Gintama: The Final",
+        "year": "(2021)",
+        "image": "https://imdb-api.com/images/original/MV5BMzZhYTk1NTUtNTg4Yy00MDViLTk1YjMtMDk3NDc0YzdkOTY5XkEyXkFqcGdeQXVyODEyMDIxNDY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "9.3"
+    }, {
+        "id": "tt0190641",
+        "title": "Pokémon: The First Movie - Mewtwo Strikes Back",
+        "year": "(1998)",
+        "image": "https://imdb-api.com/images/original/MV5BMTkyNDQxOTg5MF5BMl5BanBnXkFtZTYwODA2MDE3._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.3"
+    }, {
+        "id": "tt0159172",
+        "title": "Mobile Suit Gundam",
+        "year": "(1979–1980)",
+        "image": "https://imdb-api.com/images/original/MV5BMjA4NjY4NjgxNF5BMl5BanBnXkFtZTYwNzg3Mjg4._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0791205",
+        "title": "Ergo Proxy",
+        "year": "(2006)",
+        "image": "https://imdb-api.com/images/original/MV5BOWUxNzIzNzgtYzhiMC00ZTlmLWIxYjctMjhhNDFhOGJmNjRmL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt13022022",
+        "title": "Peach Boy Riverside",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BMmY3YjkyMzgtODc3Yy00MGNmLWE0YWYtN2E3MDNkODRlZDk4XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.7"
+    }, {
+        "id": "tt0845738",
+        "title": "Higurashi no naku koro ni",
+        "year": "(2006)",
+        "image": "https://imdb-api.com/images/original/MV5BZWQ2MTY2NGMtYjBjNC00MDMwLWI4NmItNjk3MmYzOGEzMmFlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt10431290",
+        "title": "Arifureta: From Commonplace to World's Strongest",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BMmRhOTVlOTctZDQ5Ni00NTg3LWJmMzctMjhiYTMwZDU5Yjc0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt6197170",
+        "title": "Kuzu no honkai",
+        "year": "(I) (2017)",
+        "image": "https://imdb-api.com/images/original/MV5BMDA4ZjY5NGEtZjI2Ni00MjYwLWE0NGItN2JhMzU3Mzc2ZmQ2L2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }],
+    "page_6": [{
+        "id": "tt1480925",
+        "title": "Bakemonogatari",
+        "year": "(2009–2010)",
+        "image": "https://imdb-api.com/images/original/MV5BYTNlMWFmYjQtM2E2ZC00ZDEwLWI1NjktY2MxMmJkYzNkMzkzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0210418",
+        "title": "Digimon",
+        "year": "(1999–2003)",
+        "image": "https://imdb-api.com/images/original/MV5BNGJhOGJmZGItNjQwZS00MzQ5LTg0MDMtYTc3YzAwMDc4YjFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt2645500",
+        "title": "Haganai: I Don't Have Many Friends",
+        "year": "(2011– )",
+        "image": "https://imdb-api.com/images/original/MV5BZWZjMGUzNjQtZTI1NC00M2IxLTllZjQtZmY3MWUyNTdhNDQ3XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt6340502",
+        "title": "Inuyashiki",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BMmJhODNhZjgtMzk1Ny00MjYwLTlkMWYtZTkzMDJiOTEwNzM0XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt1483797",
+        "title": "Redline",
+        "year": "(2009)",
+        "image": "https://imdb-api.com/images/original/MV5BNGYxYzI5ODQtY2JmYy00ZjFjLTg5MjgtMjI3Njg5ODEwNmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt12057106",
+        "title": "Tower of God",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BZGM4NjE1OWYtNzcwMC00ZGY0LWE4NjEtZTgzYzY4YWU5M2E3XkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt6185782",
+        "title": "Miss Kobayashi's Dragon Maid",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BNmIyNjMwZmEtOGE0Yy00ZGNmLWE3MmQtYmFkNDk0NGVjZjhkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt0388473",
+        "title": "Tokyo Godfathers",
+        "year": "(2003)",
+        "image": "https://imdb-api.com/images/original/MV5BNWY2ODRkZDYtMjllYi00Y2EyLWFhYjktMTQ5OGNkY2ViYmY2XkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt0433722",
+        "title": "Paranoia Agent",
+        "year": "(2004)",
+        "image": "https://imdb-api.com/images/original/MV5BZmUxZTBmNDctZmY1MC00MjhiLThmZTItMjc0OTJiYTQ1Y2VlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt10011298",
+        "title": "Dragon's Dogma",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BZTg0NThkODYtNTAwMi00OTA4LWIwYmEtYjdiMzhiM2JjYjJhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_Ratio0.8000_AL_.jpg",
+        "imDbRating": "6.3"
+    }, {
+        "id": "tt1339238",
+        "title": "Sekirei",
+        "year": "(2008–2010)",
+        "image": "https://imdb-api.com/images/original/MV5BN2ZhMjI2NjEtZTYwNi00MzA0LWIyNDItM2QyZWQ1Nzc3MjI4XkEyXkFqcGdeQXVyMzU3MDU3NjI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt0385426",
+        "title": "Initial D",
+        "year": "(1998)",
+        "image": "https://imdb-api.com/images/original/MV5BNDQ1MTQ2OTA1M15BMl5BanBnXkFtZTcwNDIxNzcyMQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt0279077",
+        "title": "FLCL",
+        "year": "(2000–2018)",
+        "image": "https://imdb-api.com/images/original/MV5BYzkzYjI2YzMtZjllMS00MzRmLTk2MDMtZWY4Zjg4N2M2NmIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt6455986",
+        "title": "Saga of Tanya the Evil",
+        "year": "(2017– )",
+        "image": "https://imdb-api.com/images/original/MV5BMmI1YWYwMzMtZTQ1MS00ZDEyLTliMDQtZmFmNTI0NjIxMTU4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt2320220",
+        "title": "Kamisama hajimemashita",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BYThiYjUzYTQtNDg0NC00OGYxLWEyNDQtNDhjNDZmNWE3ZjVlXkEyXkFqcGdeQXVyMzExODYzNzc@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt9054354",
+        "title": "Zombieland Saga",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BNTlkMTYyODEtM2ZjZS00NGI2LWI1NTEtY2FhZmI0MGRmMjljXkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt0808506",
+        "title": "The Girl Who Leapt Through Time",
+        "year": "(2006)",
+        "image": "https://imdb-api.com/images/original/MV5BNzUxODI4MzgtNWZiOC00MmNlLWIyMzctNGE3ZGU0MzczMjk4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt7339826",
+        "title": "Maquia: When the Promised Flower Blooms",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BMDY4YmM0YjUtNTE0OC00NDgwLWE1ZmQtNDIyN2U2MjlhMjI2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt4379632",
+        "title": "Kekkai Sensen",
+        "year": "(2015–2017)",
+        "image": "https://imdb-api.com/images/original/MV5BNDEyMmI5YjEtZWFiMC00NDg2LWI0ODgtY2UyMmQyNzY0M2Q5XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt12728856",
+        "title": "The Hidden Dungeon Only I Can Enter",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BZDM0MDA4NjctNDA4Zi00NzU1LTk5NzYtZjRhZTIwMzQxOWM0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.4"
+    }, {
+        "id": "tt6538106",
+        "title": "Hajimete No Gal",
+        "year": "(2017– )",
+        "image": "https://imdb-api.com/images/original/MV5BNjkyOGRhMjUtMjk4Yy00MDA5LWE1YTMtOTg0ZTg2MDI0NTdiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.1"
+    }, {
+        "id": "tt1298820",
+        "title": "Clannad: After Story",
+        "year": "(2008–2009)",
+        "image": "https://imdb-api.com/images/original/MV5BYTcwNzQzNTktYjY1MC00YTVkLThkMGItZGQ3ZjBjNTc1ZmY4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt4542568",
+        "title": "Snow White with the Red Hair",
+        "year": "(2015–2016)",
+        "image": "https://imdb-api.com/images/original/MV5BYzRhZDhkOWQtOGI2OC00MWQ1LTkxN2UtNmRjYzc1ZTg3YTQ1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt6900448",
+        "title": "Mirai",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BYTNmYTQwZGYtZWEwNy00YjRlLTg4NTItNmU1NjE5N2U2ODNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt0285368",
+        "title": "Ghost Stories",
+        "year": "(2000–2001)",
+        "image": "https://imdb-api.com/images/original/MV5BNDNmMTZhMGItMDE4Zi00NTVhLWIwYWItMGExZmIxMjQxMTYyXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt11034066",
+        "title": "Welcome to Demon-School, Iruma-kun",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BYzgyNmIzODYtNTM1ZC00ZTcwLWFhYzktOTM4NGVhYzE3MzA2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt0346314",
+        "title": "Ghost in the Shell: Stand Alone Complex",
+        "year": "(2002–2005)",
+        "image": "https://imdb-api.com/images/original/MV5BZWQxZDhiNGEtYmRhYy00OGUxLThhYTMtNjUzMjY0YzhiYjU3XkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt10068916",
+        "title": "Made in Abyss: Dawn of the Deep Soul",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BZDhjM2Y5MTEtZGQyZC00MzFmLTg5YmEtZDk4M2Q0NzJjODg5XkEyXkFqcGdeQXVyMzExMzk5MTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt1216222",
+        "title": "To LOVE-Ru",
+        "year": "(2008–2010)",
+        "image": "https://imdb-api.com/images/original/MV5BNmFkYjljODUtYTQyOS00N2U5LTk1NjktMDc1ZTVjMDhkNDAyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.6"
+    }, {
+        "id": "tt0995941",
+        "title": "Darker Than Black",
+        "year": "(2007–2010)",
+        "image": "https://imdb-api.com/images/original/MV5BNmRmNTViNDgtZTQ3Ny00YzY2LTllZDAtNmMzZjY0YWZjZTExXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt1636691",
+        "title": "Generator Rex",
+        "year": "(2010–2013)",
+        "image": "https://imdb-api.com/images/original/MV5BYWJmZTExZWItOWFkZS00ZjY4LWFhOGItNTBjMjQ2MDdkNTkyXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt7944664",
+        "title": "B: The Beginning",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BMzY2ZTcxODctOTk1OC00YTRkLWI5NDMtZGY3NGUxMzE1YzZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt0315008",
+        "title": "GTO",
+        "year": "(1999–2000)",
+        "image": "https://imdb-api.com/images/original/MV5BNzZmYjBjMGYtNzk1Zi00MzZiLWI1MzgtNGYwZTZhMTRhNjMzXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt2210479",
+        "title": "Berserk: The Golden Age Arc I - The Egg of the King",
+        "year": "(2012)",
+        "image": "https://imdb-api.com/images/original/MV5BYzA0ZGYxYzAtMmJlOC00OTFkLThhNmItYTdlMTdkNDY2NzQ4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt6074794",
+        "title": "March Comes in Like a Lion",
+        "year": "(2016–2018)",
+        "image": "https://imdb-api.com/images/original/MV5BODc2ZTk1OTctMTIyNy00Y2U5LThiOTUtN2Y4NGJlYTM0ODE0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt1909447",
+        "title": "Deadman Wonderland",
+        "year": "(2011)",
+        "image": "https://imdb-api.com/images/original/MV5BNWExOTUxYjQtYmNhOS00OGViLWI3N2ItMzBhMWY5NGJkYjlmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt0434685",
+        "title": "Gantz",
+        "year": "(2004)",
+        "image": "https://imdb-api.com/images/original/MV5BZWIwNjY2NGMtMTFmMC00ZWQ1LWJhZjktNjg0N2I1YzJkOTRlXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt1639109",
+        "title": "Angel Beats!",
+        "year": "(2010)",
+        "image": "https://imdb-api.com/images/original/MV5BN2RkZjk0ODctNWE0MS00MjFlLTliMDMtZTFhMWM2NTAxMDg1XkEyXkFqcGdeQXVyNjc0ODMyMDc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt1679482",
+        "title": "Supernatural: The Animation",
+        "year": "(2011)",
+        "image": "https://imdb-api.com/images/original/MV5BNDljNDlkZjctNDFlZi00ZjNjLTkxNDQtOTI5MzY1MGIzNGQ4XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt1118804",
+        "title": "Clannad",
+        "year": "(2007–2008)",
+        "image": "https://imdb-api.com/images/original/MV5BN2VmM2NmMGUtOGQ2OC00Y2ZjLTljNTctYjhmMDJjZjM1NTY3XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.8000_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt2622982",
+        "title": "The Devil Is a Part-Timer!",
+        "year": "(2013– )",
+        "image": "https://imdb-api.com/images/original/MV5BMGQyMTkxNjAtN2YxNC00YjgyLWE0YmQtZTY4ODczMDhmNzNkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt3115338",
+        "title": "Nisekoi",
+        "year": "(2014–2016)",
+        "image": "https://imdb-api.com/images/original/MV5BNjliYjI4OTktYjA4YS00NTQ4LTliNGMtYzAzNDA1ZTU0YzY4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt0139774",
+        "title": "Dragon Ball GT",
+        "year": "(1996–2003)",
+        "image": "https://imdb-api.com/images/original/MV5BYzY3YjhiYTMtNDQ4OS00ZGI0LWE0ODQtOGM1N2M5OTQyNjk1XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt1753496",
+        "title": "Resident Evil: Damnation",
+        "year": "(2012)",
+        "image": "https://imdb-api.com/images/original/MV5BMDY2M2RkMmMtNGY3Yy00MTg0LWJmMmItNjEzODJjYTViZjA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.5"
+    }, {
+        "id": "tt5839706",
+        "title": "91 Days",
+        "year": "(2016– )",
+        "image": "https://imdb-api.com/images/original/MV5BNmVlNWI2MDYtNDAxNS00ZDQ5LThlNmMtY2ZjNjEyNWEwZmVmXkEyXkFqcGdeQXVyNjIyNDgwMzM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt3874528",
+        "title": "The Irregular at Magic High School",
+        "year": "(2014– )",
+        "image": "https://imdb-api.com/images/original/MV5BYmNmMDIzZjktOTcwMS00N2Q1LWE3NTAtNTUwZGJjOWQ3N2NlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt0291350",
+        "title": "Millennium Actress",
+        "year": "(2001)",
+        "image": "https://imdb-api.com/images/original/MV5BNTljMmIyZWEtNzQ1Ni00NTdmLWIzMmYtMmIzZDAzOTc0ZGY2XkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt12367868",
+        "title": "Higurashi: When They Cry - GOU",
+        "year": "(2020–2021)",
+        "image": "https://imdb-api.com/images/original/MV5BOWYxNzgwYjItNDRiNi00NzBhLWIwZmQtYTA1MjAwMGRhN2E1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt0110008",
+        "title": "Pom Poko",
+        "year": "(1994)",
+        "image": "https://imdb-api.com/images/original/MV5BYjBkODU2MjEtMjRhZi00M2M2LTg4ZjgtMGM0NjFiZTdjMzZhXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt1121794",
+        "title": "Sword of the Stranger",
+        "year": "(2007)",
+        "image": "https://imdb-api.com/images/original/MV5BNWI5MzQ3M2QtNGY5My00YjQ2LTgxZTQtMDgyYmZhMmFkNDZmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.8"
+    }],
+    "page_7": [{
+        "id": "tt0465316",
+        "title": "Afro Samurai",
+        "year": "(2007)",
+        "image": "https://imdb-api.com/images/original/MV5BY2I2MzU0ZmUtNWE5Mi00OWM3LWIyZDEtZTg0Y2U2N2FlZDUyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt1773185",
+        "title": "Puella Magi Madoka Magica",
+        "year": "(2011)",
+        "image": "https://imdb-api.com/images/original/MV5BZGYyZDlhY2YtMmYwNC00YjM3LWEwZDEtMTRhOWI5NDViM2NlXkEyXkFqcGdeQXVyMjk0NTE0NA@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt13593022",
+        "title": "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BMmUwMDdmNWEtNTFjNy00NjQ3LThhMmQtZTRlMmQ4ZDNmNWEzXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "6.4"
+    }, {
+        "id": "tt8673610",
+        "title": "Hataraku Saibou",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BYWUzMzU4MjAtNjY0Yi00NzliLThmY2QtODViZWY0Y2NjOWM4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt0216651",
+        "title": "Vampire Hunter D: Bloodlust",
+        "year": "(2000)",
+        "image": "https://imdb-api.com/images/original/MV5BNTIyNThlMjMtMzUyMi00YmEyLTljMmYtMWRhN2Q3ZTllZjA4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt13248062",
+        "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BMjRjZDM0ODAtZDdmYy00YWY3LTlmNmItZjJkZmRmMDNmNGNiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.6"
+    }, {
+        "id": "tt0159509",
+        "title": "Kidô Senshi Gundam",
+        "year": "(1981)",
+        "image": "https://imdb-api.com/images/original/MV5BZGEzOGEwZWMtODI0MC00NjU5LThlMzItNmJlMGFiNDEwM2RhXkEyXkFqcGdeQXVyMTA3NTQwNDU4._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt3957196",
+        "title": "Yona of the Dawn",
+        "year": "(2014– )",
+        "image": "https://imdb-api.com/images/original/MV5BYTFmMzAyYzMtOTM3NS00MDk4LTg5ZjEtOTAwNGE5NDVmODMxXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt0325547",
+        "title": "Hellsing",
+        "year": "(2001–2002)",
+        "image": "https://imdb-api.com/images/original/MV5BM2E3ZDU4OWUtZDhjOC00ZTc2LTg5NDItMTJlZTkzNmE1ZWY5XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt1174954",
+        "title": "Resident Evil: Degeneration",
+        "year": "(2008)",
+        "image": "https://imdb-api.com/images/original/MV5BZTY4YTIwNGYtMDhiZC00YWJiLTg1YzEtNDdmZjY4YTQ2NWVmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.5"
+    }, {
+        "id": "tt13375866",
+        "title": "Heaven Official's Blessing",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BZGVjMzE1ZDYtZjE0ZS00Y2RhLWFmZGYtMWU3YmIzYTQ0ZTYxXkEyXkFqcGdeQXVyMjgwOTQzMTk@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt2425098",
+        "title": "Magi: The Labyrinth of Magic",
+        "year": "(2012–2014)",
+        "image": "https://imdb-api.com/images/original/MV5BZGEyNmQ0ZWQtYzE1Mi00ZDhkLThlZDctOTkxNTMyZWU5MmE1XkEyXkFqcGdeQXVyMjQzMjY4MjU@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt6336356",
+        "title": "Mary and the Witch's Flower",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BNDVkYmFiNmQtMjc3Ni00YTY5LTk0NTAtZDc4YjZiZjU2YjNlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt9193612",
+        "title": "Ride Your Wave",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BMWE0NjdiMTAtMzY3My00NzUxLTljMDMtNmYxNmRiYmQxZmM0XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt0104740",
+        "title": "Little Nemo: Adventures in Slumberland",
+        "year": "(1989)",
+        "image": "https://imdb-api.com/images/original/MV5BMmNkM2MzNDgtNzk3Ny00ZTZmLTg4MDMtODc5M2Y4ZGQ4MGMyXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt0208502",
+        "title": "Angel's Egg",
+        "year": "(1985 Video)",
+        "image": "https://imdb-api.com/images/original/MV5BMWM2N2RjOTAtYzRkNi00NDY5LWFhODAtZWEwYjdiM2FlMjljXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt13167196",
+        "title": "Edens Zero",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BZDM2NjI5ODUtYWM4OC00Zjg2LWE5MzUtYThjYWFhOWQzN2M4XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt1847445",
+        "title": "The Tatami Galaxy",
+        "year": "(2010)",
+        "image": "https://imdb-api.com/images/original/MV5BNzJiMjdlNGEtZGM1Yi00MjE1LWJlZmQtN2U3YzNhZmJiMGZiXkEyXkFqcGdeQXVyMTg2NzgzMDE@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt0985344",
+        "title": "Claymore",
+        "year": "(2007)",
+        "image": "https://imdb-api.com/images/original/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0807832",
+        "title": "Mushi-Shi",
+        "year": "(2005–2006)",
+        "image": "https://imdb-api.com/images/original/MV5BMzY4ZmQyM2YtM2MwYy00NTUwLTljZjktOTdmODJjZjViNGRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt3666024",
+        "title": "The Red Turtle",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BNGZlYzFhNmYtMmJhMS00YTk5LWI3MDAtZmZhZTM0YzFlYjAxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt0367413",
+        "title": "Sonic X",
+        "year": "(2003–2006)",
+        "image": "https://imdb-api.com/images/original/MV5BZjA4OGQ4MjEtNzI1NC00MGMzLWFiMjQtNzNlMDIxOGVmNjZmXkEyXkFqcGdeQXVyNTUxMTQwOTg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.2"
+    }, {
+        "id": "tt8225204",
+        "title": "Golden Kamuy",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BNWE3YWVhMDEtZmViNy00ZmM3LWIxYWItZjdkZGFkNTQ4NzMxXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0108432",
+        "title": "Ocean Waves",
+        "year": "(1993 TV Movie)",
+        "image": "https://imdb-api.com/images/original/MV5BNDkzODhjMTktOTkwZS00MGQ3LTg4MGUtMDA5NWI2Y2ZiMzhjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt2789238",
+        "title": "Strike the Blood",
+        "year": "(2013– )",
+        "image": "https://imdb-api.com/images/original/MV5BYTlhZjZlZWMtZmJhMy00MTEzLWE1ODEtMGNlMjcyNWUzZDU0L2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt5023666",
+        "title": "The Heroic Legend of Arslan: Dust Storm Dance",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BMjZmYjM2NTItMjdlOC00NGU0LTkwMWEtYmFkMjg1ZmE3NGEwXkEyXkFqcGdeQXVyNjkxODE4NzU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt2358913",
+        "title": "Berserk: The Golden Age Arc III - The Advent",
+        "year": "(2013)",
+        "image": "https://imdb-api.com/images/original/MV5BMjExMjJhYWYtNzZhMy00MjFmLWI2NmEtMGUzZmM4MWY5YzRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt11988478",
+        "title": "Gleipnir",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BYWM0Y2VjN2EtNjFhZC00OTlhLWI4YjUtMzQ3OTIzOTZjZDJlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt0184872",
+        "title": "Rurouni Kenshin: The Movie",
+        "year": "(1997)",
+        "image": "https://imdb-api.com/images/original/MV5BYzEyODk3NmQtZTMwYS00MjllLTkwNWEtMjQ1MGNiOTkxNGU1XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt0248119",
+        "title": "Jojo's Bizarre Adventure",
+        "year": "(1993–2002)",
+        "image": "https://imdb-api.com/images/original/MV5BMmU0NWIzNDEtODBhOC00MWFmLWJhNmYtMzlmMWEzMDk2M2U5XkEyXkFqcGdeQXVyMTQzMjAzNTk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt9005728",
+        "title": "Mo Dao Zu Shi",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BZWE4Y2IzMGYtMGNjNC00YjA3LTgyOGUtYTRkZjI3NzdmYTAyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt0860906",
+        "title": "Evangelion: 2.0 You Can (Not) Advance",
+        "year": "(2009)",
+        "image": "https://imdb-api.com/images/original/MV5BMmRkMjllZTMtNzEwZS00YTRhLThmMTItNTE0MDhmZTExZmI1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt0481256",
+        "title": "Fighting Spirit",
+        "year": "(2000–2002)",
+        "image": "https://imdb-api.com/images/original/MV5BMTUyMDQwNjkyM15BMl5BanBnXkFtZTcwODQyMjE1MQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.7"
+    }, {
+        "id": "tt0246734",
+        "title": "Kite",
+        "year": "(1998)",
+        "image": "https://imdb-api.com/images/original/MV5BMTQ2MzU4MDM5NV5BMl5BanBnXkFtZTYwNjM2MTk4._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt0328733",
+        "title": "Beyblade",
+        "year": "(2001–2005)",
+        "image": "https://imdb-api.com/images/original/MV5BNGIzNDViMjAtYzYwZS00MzJlLTkyZTUtYzZlOWFkYmEyMTdlXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt8086718",
+        "title": "Grand Blue",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BNzRhMTUyNDYtZGQ2ZS00ZmJhLWIwZmUtNmEzNjgyZjdiOWZkXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt4906830",
+        "title": "Attack on Titan: Junior High",
+        "year": "(2015)",
+        "image": "https://imdb-api.com/images/original/MV5BMDU4MmYzZGItYTZkYS00NjJlLWI5OTItNDE0ZDNjNDkyZmZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt12331342",
+        "title": "Akudama Drive",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BN2JiMGIzYjctMTcyZS00YjRiLWI0NWUtYzA1NjgyM2RlNDdkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt8254880",
+        "title": "Wotaku ni Koi wa Muzukashii",
+        "year": "(2018–2021)",
+        "image": "https://imdb-api.com/images/original/MV5BYmU4ZjM2ZWMtMDFhMy00MGM4LTlkMmEtYTJhZTU5ODAzODk0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt0981456",
+        "title": "Baki the Grappler",
+        "year": "(2001–2007)",
+        "image": "https://imdb-api.com/images/original/MV5BNWRlZTExZjMtNDA2ZS00ZmZlLTk2N2ItNWU3ODIwN2JhMGZhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt6402190",
+        "title": "Masamune-kun No Revenge",
+        "year": "(2017– )",
+        "image": "https://imdb-api.com/images/original/MV5BMGMyMjJhMzUtNzI5MC00YzRiLTk5MmItMGU3NjMzNWIzNmZkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.4"
+    }, {
+        "id": "tt12415546",
+        "title": "Attack on Titan: Chronicle",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BMzQwZjZkMTktYzNkNC00ZWFlLWE4NGEtMjA3YTA4OTEyZWVkXkEyXkFqcGdeQXVyMTA5MTI0Mzc1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.7"
+    }, {
+        "id": "tt0860907",
+        "title": "Evangelion: 3.0 You Can (Not) Redo",
+        "year": "(2012)",
+        "image": "https://imdb-api.com/images/original/MV5BZjNkNmFmNGYtNGRlNC00MmVjLTliYzYtMGQ3ODExMWU4OTQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt3612626",
+        "title": "Saekano: How to Raise a Boring Girlfriend",
+        "year": "(2015–2017)",
+        "image": "https://imdb-api.com/images/original/MV5BMzcwYzVjOGEtN2Q1Yy00MTRmLWE5YzYtMjA3YTczYThjOTAwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt2904418",
+        "title": "Free!",
+        "year": "(2013– )",
+        "image": "https://imdb-api.com/images/original/MV5BMWY4MjdlNmEtZWFhYy00Y2YwLTlmNmMtZjExOGZmMTlmYjIzXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt5556656",
+        "title": "Kabaneri of the Iron Fortress",
+        "year": "(2016– )",
+        "image": "https://imdb-api.com/images/original/MV5BY2UyZjQwYTgtZWUxMC00MThlLTg5YTAtNzkwNjZiZTNiYjhlXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt3114350",
+        "title": "Diabolik Lovers",
+        "year": "(2013– )",
+        "image": "https://imdb-api.com/images/original/MV5BZDE2YWY0OTMtYjg2NS00MjQ5LTlmMDAtZjhiYmEzNTE0YjE2XkEyXkFqcGdeQXVyNjUxNTQzMjQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "5.2"
+    }, {
+        "id": "tt8699270",
+        "title": "Ultraman",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BZWUxMGU0NmYtNmNmYS00Mzk0LWFjNzctYTc5NmMzNGI3YWQ5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt0965547",
+        "title": "Slam Dunk",
+        "year": "(1993–1996)",
+        "image": "https://imdb-api.com/images/original/MV5BZWFlNDI2OTUtYTQ1MC00ZWUxLThhNGEtMDBhMzU2ZjZlNWM2XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.7"
+    }, {
+        "id": "tt3845670",
+        "title": "Seoul Station",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BMTM3ZGNhYmMtYzFkYi00MDM4LWJjNjktM2U3NmY0N2I3MjI2XkEyXkFqcGdeQXVyNjU3MzA0NjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.2"
+    }],
+    "page_8": [{
+        "id": "tt1161684",
+        "title": "Rozario to banpaia",
+        "year": "(2008)",
+        "image": "https://imdb-api.com/images/original/MV5BMjA4NzYzOWItYzA2MC00ZDQwLWExODYtMWYzNjNlNTc2N2M0XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt10470356",
+        "title": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BM2IyZDJiNTktZThiNC00YTM3LWExMWMtMjA3Y2U4MWU3NTAwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "6.3"
+    }, {
+        "id": "tt1474276",
+        "title": "Summer Wars",
+        "year": "(2009)",
+        "image": "https://imdb-api.com/images/original/MV5BNDUzMzVmZGEtNjE4Ny00NmZkLThiMWEtNjJjY2Y3MzlkYzg1XkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt1334722",
+        "title": "Baccano!",
+        "year": "(2007–2008)",
+        "image": "https://imdb-api.com/images/original/MV5BOTYzMTA0NzUtNzA3ZC00YjM1LTkyOWQtOGUyMWE0ZTJhMTZlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt0169880",
+        "title": "Neon Genesis Evangelion: Death & Rebirth",
+        "year": "(1997)",
+        "image": "https://imdb-api.com/images/original/MV5BYTA4NzAwYWQtZGYzMC00OTBmLTg2MmItNDQ4ODk0ODI2OTlhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt9116358",
+        "title": "Promare",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BYWJjMGIyNGYtMzlkZC00NWEyLTk5OTctMTgwNTIxOWFjZWMzXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt5839732",
+        "title": "Orange",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BZWY4NjFjMzktZTg0Mi00YWFiLWFhYjgtNzljMzQ2MmFmZDFiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt0774809",
+        "title": "Fate/stay night",
+        "year": "(2006)",
+        "image": "https://imdb-api.com/images/original/MV5BYTExZmM2ZjktM2E0NS00MjY4LWFkYTktYjc4OWMzMjNmOTgyXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt2296348",
+        "title": "The Pet Girl of Sakurasou",
+        "year": "(2012–2013)",
+        "image": "https://imdb-api.com/images/original/MV5BNGY4MDNiOTMtOGIyYy00MmIzLTk0MDItYzE2MTVmYjY5ZWY1XkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt4769824",
+        "title": "In This Corner of the World",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BYmM5Y2RhNzQtYjUwOC00ZTE4LTg0OTAtZDhhMjQ3N2JkMzZiXkEyXkFqcGdeQXVyNjc2NTgzMzc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt7029396",
+        "title": "SMG4",
+        "year": "(2011– )",
+        "image": "https://imdb-api.com/images/original/MV5BMGNmYTZiZDQtNTJmOC00MTFjLTg0NmEtN2U5Njk0ZWFkYjIxXkEyXkFqcGdeQXVyNjAzMDY4OTQ@._V1_Ratio1.7600_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt3532752",
+        "title": "Trinity Seven: 7-nin no Masho Tsukai",
+        "year": "(2014– )",
+        "image": "https://imdb-api.com/images/original/MV5BYWQzNDc0NTktOWU2OC00MGMwLTgwYWQtMTc5OTU3NDhmOWYzL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt3105452",
+        "title": "Golden Time",
+        "year": "(2013– )",
+        "image": "https://imdb-api.com/images/original/MV5BZTI0MDA5MWUtMWMyYS00NWM3LWE5ZmYtYTUxZmMxMGE5Y2IwXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt12013558",
+        "title": "BNA",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BNGU5ODc2ZTAtNjI0Ni00MDZkLWI1ZmMtOTczMWQzMGJhYWU5XkEyXkFqcGdeQXVyMTEzOTk4Mzkw._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt14824600",
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "year": "",
+        "image": "https://imdb-api.com/images/original/MV5BNWU1NjZiODktMjc4Ni00Yjg4LWEzMzUtNTJiMzM0ZDQ5NWYzXkEyXkFqcGdeQXVyMTMzNTYwMjAz._V1_Ratio1.4800_AL_.jpg",
+        "imDbRating": "-"
+    }, {
+        "id": "tt2122656",
+        "title": "Giruti kuraun: Guilty Crown",
+        "year": "(2011–2012)",
+        "image": "https://imdb-api.com/images/original/MV5BNjNkMjAzYWItOWQ0Ny00NjEzLWI1NTUtMGE4MzI3NTViYzgyXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_Ratio0.8000_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt5537534",
+        "title": "Ajin",
+        "year": "(2016– )",
+        "image": "https://imdb-api.com/images/original/MV5BMTc5MTE1ZWItMjRlOC00OGI0LTkyNGMtZjYyMzJkN2E5ZTMzXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt7569662",
+        "title": "Ikki tousen: Extravaganza Epoch",
+        "year": "(2015 Video)",
+        "image": "https://imdb-api.com/images/original/MV5BNjhkZDQzOTctMjY0Yi00YTM2LWFiYzYtYzM2NmZkNTU1NzA1XkEyXkFqcGdeQXVyMjgwOTM4MjI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt11645760",
+        "title": "Digimon Adventure",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BMGRkYjE4NjUtNDllNC00NWVlLWJkMjQtZmViNjZjNWE3ZTg0XkEyXkFqcGdeQXVyMzUzMzgxNA@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt0159193",
+        "title": "Mobile Suit Gundam Wing",
+        "year": "(1995–1996)",
+        "image": "https://imdb-api.com/images/original/MV5BOTQzNGVlZTQtYTZjMi00NzJiLThiOGItMWQ1MWQ2NDBhNzUzXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt7326322",
+        "title": "The Ancient Magus' Bride",
+        "year": "(2017– )",
+        "image": "https://imdb-api.com/images/original/MV5BYjcxNzg3NzUtM2UwNy00MjlmLTg1ZjgtYTcwZGYyNDZiNmNkXkEyXkFqcGdeQXVyMzExMzk5MTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt1584000",
+        "title": "Durarara!!",
+        "year": "(2010)",
+        "image": "https://imdb-api.com/images/original/MV5BOTAwNmViMTQtOTgzYy00NzM4LWE0MzYtYjIwOWQ0N2U5M2MxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt12117218",
+        "title": "The Millionaire Detective: Balance - Unlimited",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BMTlkZGVjZTYtZWU1MS00NzY4LWEzNjEtN2EwZDJjMzIzZWQ2XkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt12464182",
+        "title": "Uzaki-chan Wants to Hang Out!",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BODE1NWQzYTgtMDg4MS00ODZmLWE2MjItNTc1MThiYWQ2ZWNlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt6352180",
+        "title": "Little Witch Academia",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BNGNlMThiMzUtZTU1Yy00MzhhLWJkMWMtMTc3MjJhNzQxNGI3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt2942218",
+        "title": "Log Horizon",
+        "year": "(2013– )",
+        "image": "https://imdb-api.com/images/original/MV5BOGJhM2U4NTgtMWI0ZC00Njc5LWJmMjktMzQzMDgzZTIzMzI0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt5225764",
+        "title": "Drifters",
+        "year": "(2016– )",
+        "image": "https://imdb-api.com/images/original/MV5BYmQ2YmU0YzEtYWE5OS00MjU4LThmZDQtZGNhNTE5Y2MwODg1XkEyXkFqcGdeQXVyMTUwMjI0MTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt3158246",
+        "title": "Space Dandy",
+        "year": "(2014)",
+        "image": "https://imdb-api.com/images/original/MV5BNDNkNzY4MjEtYzQ4My00ODUwLWE1YTctNmEyMzY0OTk5YzgxXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt13622982",
+        "title": "Star Wars: Visions",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BNmFiZDM3M2ItMGY5OS00ZGU2LTlkMmYtNTRiZDE0OWI0MTRiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "-"
+    }, {
+        "id": "tt1410218",
+        "title": "K-On!",
+        "year": "(2009–2010)",
+        "image": "https://imdb-api.com/images/original/MV5BODNiM2Q4ZDYtNmU1Ny00OTRhLThjY2QtNzE4MzZlMzFjMDY3XkEyXkFqcGdeQXVyNjQwNzI5MDA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt7521578",
+        "title": "Citrus",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BN2I3MDkzMjMtZTQxNi00YjQ0LWE3ZWQtNGU3NTk4ODEyNTBmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.3"
+    }, {
+        "id": "tt13186542",
+        "title": "Kemono Jihen",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BMTFhZTM0NzAtOTZmMS00MTk5LThmOGYtZTA0NmE1M2VjNTZiXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt11858104",
+        "title": "Doragon kuesuto: Dai no daibouken",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BNWMzNTIyMzUtYTEzNi00MTIzLTg2MGItMmYwMDk2Yjc4NmYzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt4272866",
+        "title": "The Boy and the Beast",
+        "year": "(2015)",
+        "image": "https://imdb-api.com/images/original/MV5BZGUxZGMzYTYtNjJlMS00OGQ5LTg5YjItN2JjM2Y2NjQzMzdkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt1401113",
+        "title": "Dante's Inferno: An Animated Epic",
+        "year": "(2010 Video)",
+        "image": "https://imdb-api.com/images/original/MV5BYzEwMGY2OTItYTljMC00NTVkLWE1NGUtNGQ2ZmY3ODlkMmYzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.6"
+    }, {
+        "id": "tt12853970",
+        "title": "Shinchan",
+        "year": "(1992– )",
+        "image": "https://imdb-api.com/images/original/MV5BN2VmOWRlMjEtY2M1NC00NjdmLTg1MjktMDYxNzg3ZTNiMDUxXkEyXkFqcGdeQXVyNTk5ODg4NDA@._V1_Ratio1.0000_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt11595706",
+        "title": "Interspecies Reviewers",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BM2MzZmRiOTctN2JlZi00ZDM2LWI2ZjMtMjdlODg4MWE2ZTYzXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt1196027",
+        "title": "Munemoshune no musume tachi",
+        "year": "(2008– )",
+        "image": "https://imdb-api.com/images/original/MV5BZWQ3ZDY2OWQtNTM3MS00N2IwLWFjNTMtOTU1N2MxMGQxOTZiXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt7808344",
+        "title": "Karakai Jouzu no Takagi-san",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BY2FlZjc5NDItMDYzOS00Y2NjLWEyZjgtOTVmZTBmOTk5N2I4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt0091211",
+        "title": "Fist of the North Star",
+        "year": "(1984–1988)",
+        "image": "https://imdb-api.com/images/original/MV5BMGNmMTE0MDktYjY1OC00MmQ3LTgwNDItYzc2ZDQzYjc1MGRhXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_Ratio0.8000_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt8019444",
+        "title": "Aggretsuko",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BMTg3MjE4NDY1Nl5BMl5BanBnXkFtZTgwMjg4MzA0NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt11821792",
+        "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BOTIwZjQyZWQtZjk5NS00NzI0LTlmMDAtOWExM2QxZTAxZjAxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt13651628",
+        "title": "Belle: Ryu to Sobakasu no Hime",
+        "year": "(2021)",
+        "image": "https://imdb-api.com/images/original/MV5BODkwMTYxZjUtNGI5Zi00MzlkLWIxZDAtMTgxMDdjM2FlNjYyXkEyXkFqcGdeQXVyMjEzNjU0Mzk@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "-"
+    }, {
+        "id": "tt10974198",
+        "title": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BMWI2NTMzZTUtNzAyYS00Y2U4LTliMzItMDU1YzA0N2YzNGI2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt2309320",
+        "title": "Shin Sekai Yori",
+        "year": "(2012–2013)",
+        "image": "https://imdb-api.com/images/original/MV5BMTZlMjhhNDEtOGM0OS00MGVjLWJhYTItMzIzYzlkNTg3YzU3XkEyXkFqcGdeQXVyMjQzMjY4MjU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt8993464",
+        "title": "Bloom Into You",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BY2VlYjFjZTItNWY4My00ZGUwLThjNjItMzdkMjViMjlkZDI3XkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt1146431",
+        "title": "Ben 10: Secret of the Omnitrix",
+        "year": "(2007 TV Movie)",
+        "image": "https://imdb-api.com/images/original/MV5BZWFmM2VlYTAtZGRjOS00NTY2LTg2Y2MtNGE4OTU0ZjBjODFlXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt5344382",
+        "title": "Mobile Suit Gundam: Iron-Blooded Orphans",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BZTVlZGI0ODQtOWY5MS00YmRjLWExMjctNGY5ODk1YmMzZjFjXkEyXkFqcGdeQXVyMTU3OTE4NjU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt3692198",
+        "title": "Maken-Ki! Battling Venus",
+        "year": "(2011–2014)",
+        "image": "https://imdb-api.com/images/original/MV5BY2E2MjYxNmEtNTY3My00MGNmLWI3NGUtZTU4MGI2ZDVlODg0XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.1"
+    }, {
+        "id": "tt0159186",
+        "title": "Mobile Suit Zeta Gundam",
+        "year": "(1985–1986)",
+        "image": "https://imdb-api.com/images/original/MV5BNTJjODZhMWYtMjBkMi00MmE0LWI5ZTEtMTVjZThjNzMyMmYyXkEyXkFqcGdeQXVyNTY0MDIzNzM@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "8.2"
+    }],
+    "page_9": [{
+        "id": "tt11802992",
+        "title": "Given",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BYzY1MzgzY2YtMmQzNC00YzU4LTk0MmMtNDQyMmQzY2U1OWY0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt5544384",
+        "title": "Sword Art Online the Movie: Ordinal Scale",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BZGE4M2M2OTYtZDgwMy00NGYwLWE0YTYtYzkyMDFjYWFhN2QzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt0095262",
+        "title": "Mobile Suit Gundam: Char's Counterattack",
+        "year": "(1988)",
+        "image": "https://imdb-api.com/images/original/MV5BMTE5OGJjZmQtZmI0Ni00YzU1LWE1OGItZGI5MDc3ODhlYjc1XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt10625492",
+        "title": "Twilight of the Gods",
+        "year": "",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "imDbRating": "-"
+    }, {
+        "id": "tt13428402",
+        "title": "Stand by Me Doraemon 2",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BMzQ2MzJmZGMtZjhmNS00MGUyLWJjOGMtYzVmMTg4OTA2YzZkXkEyXkFqcGdeQXVyMTEwMjgyMzIz._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt11418324",
+        "title": "Plunderer",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BMjg5NGViYzYtZmViMC00N2I1LWI3YjctYjE3YWU1NDU5ZjFmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "6.4"
+    }, {
+        "id": "tt2250064",
+        "title": "So, I Can't Play H",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BZmI0NjljYzAtNGFjOC00NGMwLWEyNzYtYzFkYzY3ZWM2Y2MxXkEyXkFqcGdeQXVyMjMxMDM2NjY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.3"
+    }, {
+        "id": "tt0367409",
+        "title": "Shaman King",
+        "year": "(2001–2005)",
+        "image": "https://imdb-api.com/images/original/MV5BYTk4OGY4MjgtYThiNy00OWExLWE2YzMtOTg4N2ExNmJjODk4XkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.1"
+    }, {
+        "id": "tt5526028",
+        "title": "Dou Kyu Sei: Classmates",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BYTBlOThhNzUtMDAzNS00N2YzLWI2Y2ItZWUwMDcxYTBlNjU3XkEyXkFqcGdeQXVyMzI3Mjg0NA@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt3114376",
+        "title": "Kyoukai no kanata",
+        "year": "(2013– )",
+        "image": "https://imdb-api.com/images/original/MV5BY2NmNTdmNDgtMjJmMS00YzQ1LTliN2ItMjQxOGRiMjAwODFhXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt4489416",
+        "title": "The Anthem of the Heart",
+        "year": "(2015)",
+        "image": "https://imdb-api.com/images/original/MV5BZjE3MGYyM2QtMzgzZS00OGQ5LWE2MjAtMWEyMDk5YzhhZWU0XkEyXkFqcGdeQXVyNjU1ODkwMjU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt10477558",
+        "title": "Violet Evergarden: Eternity and the Auto Memories Doll",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BZjljM2M1ZTgtZGM4My00OGRkLTliMjAtYzJiZDBkMzQ5ZDkzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt0294885",
+        "title": "Rurouni Kenshin: Reflection",
+        "year": "(2001– )",
+        "image": "https://imdb-api.com/images/original/MV5BMTIwODgyOTkwNF5BMl5BanBnXkFtZTYwMjg5Mzk5._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.2"
+    }, {
+        "id": "tt0486171",
+        "title": "Ikki tousen",
+        "year": "(2003– )",
+        "image": "https://imdb-api.com/images/original/MV5BM2U3Zjk4M2MtZDM5NC00NTk3LWExZGYtZjUxZmU0NmVhYWI5XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6"
+    }, {
+        "id": "tt0452039",
+        "title": "Mind Game",
+        "year": "(I) (2004)",
+        "image": "https://imdb-api.com/images/original/MV5BNzFlMDI1ZjctMzgzYy00YmVkLTlmMTMtNDZmZmVmMzk3MzNhXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt5857720",
+        "title": "ReLIFE",
+        "year": "(2016–2018)",
+        "image": "https://imdb-api.com/images/original/MV5BZjk3ZmM0NmMtYzY1MC00Y2MyLTkxZjYtNjA2MDlhNTRhNWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt0347246",
+        "title": "Ghost in the Shell 2: Innocence",
+        "year": "(2004)",
+        "image": "https://imdb-api.com/images/original/MV5BZjlkYWVlMjQtMGY3Zi00MWYxLTkxYTItODBkNGUyOWJjMjhjXkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt8314920",
+        "title": "Devils Line",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BNWI3ZWQxN2EtNWQ4MS00NmNiLTkzMTMtMzgwZDc1YmJmNmYwXkEyXkFqcGdeQXVyODEyMzI2OTE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt1209393",
+        "title": "Vampire Knight",
+        "year": "(2008– )",
+        "image": "https://imdb-api.com/images/original/MV5BOTlkM2VhYzQtODAwYi00MWRhLThlYWItZjdmOGNlYzRkYjRjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt1528567",
+        "title": "Heaven's Lost Property",
+        "year": "(2009–2010)",
+        "image": "https://imdb-api.com/images/original/MV5BODI2MTFlMTQtNDhhZi00MTQzLTgxNWMtZGEzZDlhNTBmOTA0XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt1745240",
+        "title": "Kimi ni Todoke: From Me to You",
+        "year": "(2009– )",
+        "image": "https://imdb-api.com/images/original/MV5BZDdhNjRhN2ItZjQzNy00NzdlLTllYzEtYjI5NzYwMjY0ZjZjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt0381348",
+        "title": "The Place Promised in Our Early Days",
+        "year": "(2004)",
+        "image": "https://imdb-api.com/images/original/MV5BMTg5ODA4MTY1OV5BMl5BanBnXkFtZTcwODYwMzAzMQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt7814574",
+        "title": "Junji Itô: Korekushon",
+        "year": "(2018– )",
+        "image": "https://imdb-api.com/images/original/MV5BZjI3YTk0OTQtODk4MC00MjAyLWE5MTQtNzNjMzI1N2FiYjJmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.6"
+    }, {
+        "id": "tt8176578",
+        "title": "Flavors of Youth",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BYmVkZjU5NWYtNmVhNC00Y2FjLWFiZGUtZGRlMzk3M2YzYmI5XkEyXkFqcGdeQXVyMTk2MDc1MjQ@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "6.6"
+    }, {
+        "id": "tt0159145",
+        "title": "Golden Boy",
+        "year": "(1995–1996)",
+        "image": "https://imdb-api.com/images/original/MV5BZmE5MjkzNjQtZTExNy00NDU3LWFiNzMtM2FkN2I5ZTQ3NTVlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt6220550",
+        "title": "Hip Whip Girl: Keijo!!!!!!",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BNDE2Y2EzOTktNDEwYy00OGVjLTkzNzYtYzRlYWE1Y2RkZjQ3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjg2MDA4MzE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt11405390",
+        "title": "Darwin's Game",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BNzdhOGUwNjEtNTQyMi00MjkxLThkNDMtYjZiZmVkYWI2NDllXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt12362250",
+        "title": "The Titan's Bride",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BNTQzNzc0MjYtMDA4Mi00NWRiLWJjYzMtYjg1ODUxYzliODM4XkEyXkFqcGdeQXVyNDYwOTA0NzM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "5.9"
+    }, {
+        "id": "tt0107061",
+        "title": "Battle Angel",
+        "year": "(1993 Video)",
+        "image": "https://imdb-api.com/images/original/MV5BNWUxMjQzMDktYWY3Zi00Njk2LTkzMjUtYzNlYTJiZGU4NmUwXkEyXkFqcGdeQXVyNzgzODI1OTE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt4054952",
+        "title": "Fate/Stay Night: Heaven's Feel - I. Presage Flower",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BODljMTI0MDQtMTY2Mi00YjljLThhZTItYjc4MWViMWM5M2RiXkEyXkFqcGdeQXVyNjg3MDM4Mzc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt0159192",
+        "title": "Lupin the 3rd",
+        "year": "(1977–1980)",
+        "image": "https://imdb-api.com/images/original/MV5BYjk0MmRlYTgtZjQ1ZC00NDUxLWIwZjItYjVhYWY0ODI0MWJhXkEyXkFqcGdeQXVyMzkzODQwMA@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt6595896",
+        "title": "Pokémon the Movie: I Choose You!",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BM2U3NmI4YzItYmRiNi00M2UxLWExNTYtNDZkZmJlNzlmM2M3XkEyXkFqcGdeQXVyNDkzMjE0NDE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.3"
+    }, {
+        "id": "tt11657662",
+        "title": "The Witcher: Nightmare of the Wolf",
+        "year": "(2021)",
+        "image": "https://imdb-api.com/images/original/MV5BNmE4N2E2YWYtYTgxNS00NzIwLTk3YWItY2EzYjU2ZWZiZjdmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.4800_AL_.jpg",
+        "imDbRating": "-"
+    }, {
+        "id": "tt12885610",
+        "title": "Noblesse",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BNDZlNjJmYjEtZmI2Yy00MDY4LWFjNmItMDcxNmE3MGJlZTJiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt12031040",
+        "title": "Japan Sinks: 2020",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BNGE2YTNmZDktZDY4MC00YWIzLTlkZDItY2JkODM3NzVkN2MyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.4"
+    }, {
+        "id": "tt9525238",
+        "title": "Fate/Grand Order - Absolute Demonic Front: Babylonia",
+        "year": "(2016–2021)",
+        "image": "https://imdb-api.com/images/original/MV5BNGQ5NTU2MjktY2JjYS00OTJiLWI2OWUtMzliMmE0NzZmNDMxXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt8670784",
+        "title": "Angels of Death",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BOWRjMzU2NTYtMGRlOS00YjQwLWFiYWQtODFlOGNiNmU4OTVlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.4"
+    }, {
+        "id": "tt2375379",
+        "title": "One Piece Film Z",
+        "year": "(2012)",
+        "image": "https://imdb-api.com/images/original/MV5BNWEyZTYzZDYtMzQ0Zi00MjMzLThjMWUtNzYyMzdiZDk0MzBiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt0930902",
+        "title": "Midori",
+        "year": "(1992)",
+        "image": "https://imdb-api.com/images/original/MV5BZGVhNGVjZjEtMTUyNS00NmEwLWE0ODMtNzhkZTk4Njc1ZWEzXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.6"
+    }, {
+        "id": "tt14550644",
+        "title": "Higurashi no Naku Koro ni Sotsu",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BNmRhYzU4YTYtMmQyOS00ODVmLWJhNjgtNzk3NTY3OThmM2FlXkEyXkFqcGdeQXVyMTI5MjU1NTU0._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "9.1"
+    }, {
+        "id": "tt8856470",
+        "title": "Pokémon: Mewtwo Strikes Back - Evolution",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BZDA0NGEwNDItMDM5OC00ZmY4LTk1ZGQtMzE4ZmVhY2M3MzY0XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "5.7"
+    }, {
+        "id": "tt5979874",
+        "title": "Godzilla: Planet of the Monsters",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BMzc1NjliZDktZjQ0ZS00OTY5LWJkYmItODU0MmQzZGYxNmQ3XkEyXkFqcGdeQXVyNTU1Nzc3NjA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6"
+    }, {
+        "id": "tt1308089",
+        "title": "A Certain Magical Index",
+        "year": "(2008–2019)",
+        "image": "https://imdb-api.com/images/original/MV5BZDkxMTdmMDgtZmQ1NC00NzZlLWIxMjgtMjkyMTFlZjI3OWZiXkEyXkFqcGdeQXVyMjQ0OTA1Nzc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt5251328",
+        "title": "One Piece Film: Gold",
+        "year": "(2016)",
+        "image": "https://imdb-api.com/images/original/MV5BNzBiMTlhNTAtNDc4Yi00M2FiLWE3ODMtNzgwNWI3ZGFhYjNkXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt0161952",
+        "title": "Knights of the Zodiac",
+        "year": "(1986– )",
+        "image": "https://imdb-api.com/images/original/MV5BYWY2NzEwYWMtMTk2NS00MTQ1LWI4M2EtN2I5NjMzOGUyYmM0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt0061300",
+        "title": "Speed Racer",
+        "year": "(1967–1968)",
+        "image": "https://imdb-api.com/images/original/MV5BZmI4MzQ1OWMtYjNhNi00MmMzLWFhMTUtNGY0NDE3ZDQyMWY0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt2377452",
+        "title": "K",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BMmEyNGJhMTUtMGMzNy00NDk4LTg5OGMtZGExMDNiM2E3MTEzXkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt1515996",
+        "title": "A Certain Scientific Railgun",
+        "year": "(2009– )",
+        "image": "https://imdb-api.com/images/original/MV5BYzZhNmEwOTEtYjdiNC00ZWMwLTg1NzUtOWMyZGIzZGE0NThlXkEyXkFqcGdeQXVyMTI0ODUzNzQw._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt2309312",
+        "title": "Say \"I love you\"",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BYWQ5OGRiNDItMGZkOC00YzMzLTgxNzAtOThmMjZlYmJjOWZlL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt0435031",
+        "title": "Hunter X Hunter OVA",
+        "year": "(2002)",
+        "image": "https://imdb-api.com/images/original/MV5BNjU1ODBhN2YtNzBjNi00MjU1LThkYjItYTY4ZTk0OGI1NmExXkEyXkFqcGdeQXVyNjc0NjAwNTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.7"
+    }],
+    "page_10": [{
+        "id": "tt1839494",
+        "title": "Children Who Chase Lost Voices",
+        "year": "(2011)",
+        "image": "https://imdb-api.com/images/original/MV5BMzZmZTQ4YjMtODgxYS00NDBlLTgyYWYtNWFkNjVhZGUyODRlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt9310328",
+        "title": "Altered Carbon: Resleeved",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BMzQ4OTA4YjYtMjQ5My00ZGEzLTkyOGYtNzk4NjZlYTc5MTBjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.5"
+    }, {
+        "id": "tt0090248",
+        "title": "Vampire Hunter D",
+        "year": "(1985)",
+        "image": "https://imdb-api.com/images/original/MV5BMGJmZmVlOTAtZmQyMS00NmUzLWJmZDUtZjM3M2MwMDdhZmQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt10675392",
+        "title": "Saezuru Tori Wa Habatakanai: The Clouds Gather",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BNTU0NDM5Y2QtYWRiYS00ZWU2LTg1NTItMDFjMDAwODhlYmVkXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt5618002",
+        "title": "Super Lovers",
+        "year": "(2016– )",
+        "image": "https://imdb-api.com/images/original/MV5BNzg2M2Q0OWUtYWM0Ni00MjUwLWJmN2YtYWU4Zjc3MTRkMTVlXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.7"
+    }, {
+        "id": "tt6845846",
+        "title": "Akashic Records of Bastard Magic Instructor",
+        "year": "(2017– )",
+        "image": "https://imdb-api.com/images/original/MV5BNGM3YWMxMzQtNmFiMS00NDczLWJkMjctODJjZWIwMmIwYzNiXkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt9883676",
+        "title": "We Never Learn",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BNjc0MDAyNTYtNGMwZS00NDZlLWIyMDEtYWUwMWJjNGZlNjAwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt3416460",
+        "title": "Majikoi ~ Oh! Samurai Girls",
+        "year": "(2011–2012)",
+        "image": "https://imdb-api.com/images/original/MV5BMTA5MjhhYTEtNjMzZi00ODU2LWE5NTMtMTVjMzc2OWRiYTFlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_Ratio1.1200_AL_.jpg",
+        "imDbRating": "5.8"
+    }, {
+        "id": "tt9828724",
+        "title": "Philosopher's Grandson",
+        "year": "(2019– )",
+        "image": "https://imdb-api.com/images/original/MV5BMGZkZWE4ODItZThjNS00MGI4LWJhMjctNzI4ZDYyNDIzYjNiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt9239552",
+        "title": "Konosuba!: God's Blessing on This Wonderful World! - Legend of Crimson",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BYmZhMTJhZDgtZTc0Yi00NjcxLThhYTAtNmJiYTljMzc1Y2NiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.9"
+    }, {
+        "id": "tt9466298",
+        "title": "Ghost in the Shell SAC_2045",
+        "year": "(2020– )",
+        "image": "https://imdb-api.com/images/original/MV5BMGRmNDRmMDAtMGFmOS00YjU0LTkyNjItM2RiNDJlMGEwYWNlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.3"
+    }, {
+        "id": "tt1743681",
+        "title": "Yosuga no sora",
+        "year": "(2010– )",
+        "image": "https://imdb-api.com/images/original/MV5BZTQ5MzhlZGYtOTU4ZS00NmI5LWFmZmQtZTg1MWExMmE5YjljXkEyXkFqcGdeQXVyNTc3MDU1MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.4"
+    }, {
+        "id": "tt3615002",
+        "title": "Monthly Girls' Nozaki-kun",
+        "year": "(2014– )",
+        "image": "https://imdb-api.com/images/original/MV5BMTE2MDYxY2UtOWQxNy00YmI4LThjN2MtODQ3Y2ZkMzZhMzIzXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt6344664",
+        "title": "Code Geass: Lelouch of the Re;Surrection",
+        "year": "(2019)",
+        "image": "https://imdb-api.com/images/original/MV5BZmUxZmVlNGMtZGMyMy00MmM3LTg5ZjgtNzFhZWU4MTU5MjIwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt13103028",
+        "title": "Jaku-chara Tomozaki-kun",
+        "year": "(2021– )",
+        "image": "https://imdb-api.com/images/original/MV5BZDEyNjc4MDQtY2Q5OC00ODU1LWE3ODAtNjliOGUxN2FhOGY2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt0493334",
+        "title": "Yu-Gi-Oh! GX",
+        "year": "(2004–2008)",
+        "image": "https://imdb-api.com/images/original/MV5BZWQ1MDNlMjgtYjUwYS00ZGU0LWJjNTYtYmRlY2FhMWFkZjI1XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt2358911",
+        "title": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+        "year": "(2012)",
+        "image": "https://imdb-api.com/images/original/MV5BMjQzNjA3NGQtMzRiNi00OGIyLWJiZjYtZWZmNTJhNDE5YzI5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt1636694",
+        "title": "Demon King Daimao",
+        "year": "(2010)",
+        "image": "https://imdb-api.com/images/original/MV5BZmRjZjgxZGQtZmFhZi00NjI2LTkzMWUtMDI1OTU3ZTI0ZGY1XkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.8"
+    }, {
+        "id": "tt0857297",
+        "title": "Welcome to the N.H.K.",
+        "year": "(2006)",
+        "image": "https://imdb-api.com/images/original/MV5BMTRhMjFkN2MtNjNjZi00YzYyLWJjNjUtNDk4NTYyNTljN2I2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt0293416",
+        "title": "Metropolis",
+        "year": "(2001)",
+        "image": "https://imdb-api.com/images/original/MV5BYWRkOGM0N2UtMTIyZi00MjA4LTg0NjQtN2RkYTQwMGJlNzFiXkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt3413018",
+        "title": "Tamako Love Story",
+        "year": "(2014)",
+        "image": "https://imdb-api.com/images/original/MV5BMTYzOGU4OTItNmU4NC00MmViLWEyNzctMmZkMzgxZjM5MjExXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt0108461",
+        "title": "Urotsukidoji: Legend of the Overfiend",
+        "year": "(1989 Video)",
+        "image": "https://imdb-api.com/images/original/MV5BMGNkYzM3NDQtNWQ0MC00OTFjLWI0YTAtZGYzNmZmMWEzNGU1XkEyXkFqcGdeQXVyNzQ3MTI0NzU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.4"
+    }, {
+        "id": "tt3104236",
+        "title": "Nagi no Asukara",
+        "year": "(2013–2014)",
+        "image": "https://imdb-api.com/images/original/MV5BNzQwYWFkM2QtMWM1My00NzFiLTk3ODMtODNmZjU2OTRhODdmXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }, {
+        "id": "tt2922300",
+        "title": "Monogatari Series: Second Season",
+        "year": "(2013)",
+        "image": "https://imdb-api.com/images/original/MV5BNGM3MTVkNzctZDFkYi00M2RiLTg5MDEtZmIzYjZkMTFlZGI1XkEyXkFqcGdeQXVyNjU4MzAyMDI@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "8.5"
+    }, {
+        "id": "tt0221735",
+        "title": "Cardcaptor Sakura",
+        "year": "(1998–2000)",
+        "image": "https://imdb-api.com/images/original/MV5BYThkZTBiN2UtZWJkMC00NzQ1LTg4ODktYjlhN2UwMTYzZWVhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt1727444",
+        "title": "Panti & Sutokkingu with Gâtâberuto",
+        "year": "(2010–2011)",
+        "image": "https://imdb-api.com/images/original/MV5BODk4ZGI3MTEtMGI3Yi00NWI5LWJkZTItMjE4YTRlNWEwMjM2XkEyXkFqcGdeQXVyMjI0MjUyNTc@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt1890725",
+        "title": "Blood-C",
+        "year": "(2011)",
+        "image": "https://imdb-api.com/images/original/MV5BZjk1MTU4OTYtNDY5ZC00Yjc2LTg4OGEtNWRjNWMyOWM3MmE4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.3"
+    }, {
+        "id": "tt4958580",
+        "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BYmY2N2EzYzQtM2ViYS00OTkzLTkyOWMtMDdhYjc1NWNiMWNmXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt0816407",
+        "title": "Suzumiya Haruhi no yûutsu",
+        "year": "(2006–2009)",
+        "image": "https://imdb-api.com/images/original/MV5BMzZmNDRlNDQtYWIzNC00OGUyLWE3Y2ItY2IwZjU5YzVlNTIzXkEyXkFqcGdeQXVyMTI0ODUzNzQw._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt5914996",
+        "title": "No Game No Life: Zero",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BMzkwY2E0NjItZGE2MS00MmFlLTlhOGUtZTAyNTI3MDg4YWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.5"
+    }, {
+        "id": "tt0114563",
+        "title": "Street Fighter II: The Animated Movie",
+        "year": "(1994)",
+        "image": "https://imdb-api.com/images/original/MV5BYzY4OWMzZDUtNDE4Ny00MzJhLWFhN2YtNTA1Mjc1MWE4MTE4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt2309302",
+        "title": "Tonari no kaibutsu-kun",
+        "year": "(2012)",
+        "image": "https://imdb-api.com/images/original/MV5BYmY3NTgxYmMtZmZkZC00NzM5LTk3NWYtMGYxNGU1MmVlZjMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt6335734",
+        "title": "The Night Is Short, Walk on Girl",
+        "year": "(2017)",
+        "image": "https://imdb-api.com/images/original/MV5BZGU0Mjc1ZTctZDdmYi00YzU0LWI4MjctMDM3Y2VjMzkzYmNiXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.6"
+    }, {
+        "id": "tt1909463",
+        "title": "Freezing",
+        "year": "(2011– )",
+        "image": "https://imdb-api.com/images/original/MV5BMTY2MzUzZjUtYTc3MS00NDZmLTkwMjQtZjM2MTQ5ODc4YzQxXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt0078692",
+        "title": "Star Blazers",
+        "year": "(1979–1984)",
+        "image": "https://imdb-api.com/images/original/MV5BNGNhNTFmZTctZTBmNS00ZmUwLWI5MWQtN2QyMjhlMWY2N2ZmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.4"
+    }, {
+        "id": "tt8076344",
+        "title": "Penguin Highway",
+        "year": "(2018)",
+        "image": "https://imdb-api.com/images/original/MV5BZjVmZGU4MjAtNzRjOS00NTgxLWFjZWUtNjFjNGEzZDA1ZDhmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt1587790",
+        "title": "Mobile Suit Gundam Unicorn",
+        "year": "(2010–2014)",
+        "image": "https://imdb-api.com/images/original/MV5BNWQ0MGEzZGEtZDIyYy00ZjVhLTg5ZGMtOGRmYTA5Y2MyZGRlXkEyXkFqcGdeQXVyMTA3NTQwNDU4._V1_Ratio0.7200_AL_.jpg",
+        "imDbRating": "7.8"
+    }, {
+        "id": "tt7428594",
+        "title": "Blade Runner: Black Out 2022",
+        "year": "(2017 Video)",
+        "image": "https://imdb-api.com/images/original/MV5BZGNiNmNiMTctMDI4OS00OWYxLWE4ZWEtZjFkZjU4ZmY5YzEyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.3"
+    }, {
+        "id": "tt11443824",
+        "title": "SSSS.Dynazenon",
+        "year": "(2021)",
+        "image": "https://imdb-api.com/images/original/MV5BOTU5YThhOWMtMzYzMC00OGJkLWIzODYtNjBjOTQxMWIzMDhlXkEyXkFqcGdeQXVyODQwODM3MTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7"
+    }, {
+        "id": "tt2263944",
+        "title": "Dragon Ball Z: Battle of Gods",
+        "year": "(2013)",
+        "image": "https://imdb-api.com/images/original/MV5BMTcwOWJlZTYtYWFlNy00Y2NiLWEyMDgtODM0MjE3ZGZlODZiXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.2"
+    }, {
+        "id": "tt5095466",
+        "title": "The Asterisk War",
+        "year": "(2015– )",
+        "image": "https://imdb-api.com/images/original/MV5BNWQ4MWQwZTktODAyMC00NWM3LTkxY2EtNmU0NWMwZjExNGNiL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.9"
+    }, {
+        "id": "tt2269368",
+        "title": "Aesthetica of a Rogue Hero",
+        "year": "(2012– )",
+        "image": "https://imdb-api.com/images/original/MV5BZDkwOTlhODItNGYzZS00Y2FlLWEzOTctZDU2NDNmYzFhNjJmXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.1"
+    }, {
+        "id": "tt3592032",
+        "title": "Ping Pong the Animation",
+        "year": "(2014)",
+        "image": "https://imdb-api.com/images/original/MV5BZDUzMGJmYmMtZjFhZi00MDA3LTg5YTEtOTRmNDNkODEzZGE3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.6"
+    }, {
+        "id": "tt0210234",
+        "title": "Pokémon the Movie 2000",
+        "year": "(1999)",
+        "image": "https://imdb-api.com/images/original/MV5BNzE1NjBiODAtNDVhNS00ZTI1LTg4ZjUtZTk3OWVhODljMjNjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "6.1"
+    }, {
+        "id": "tt2098308",
+        "title": "My Ordinary Life",
+        "year": "(2011)",
+        "image": "https://imdb-api.com/images/original/MV5BMmY1M2YzYzctZGJjZC00YTJkLTljMGQtMGJhOTczMjk1ODFmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8.3"
+    }, {
+        "id": "tt6587046",
+        "title": "How Do You Live?",
+        "year": "",
+        "image": "https://imdb-api.com/images/original/MV5BOTkxN2MwNmUtYTQwZC00NmVhLTkxM2ItZjY5ODA4ZDhlYTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "-"
+    }, {
+        "id": "tt12735338",
+        "title": "Words Bubble Up Like Soda Pop",
+        "year": "(2020)",
+        "image": "https://imdb-api.com/images/original/MV5BZTUzM2VkNjEtYWQ2ZS00OWRhLWJmN2EtMjdjYmZjNmEwYzQ0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "8"
+    }, {
+        "id": "tt1674928",
+        "title": "Beyblade: Metal Fusion",
+        "year": "(2009–2013)",
+        "image": "https://imdb-api.com/images/original/MV5BMjAxYjZkMDUtZmJkZi00NDdmLWIyZjgtZGQ2NjYwMzE1ZTkwXkEyXkFqcGdeQXVyNDI3MzQyOTM@._V1_Ratio0.7600_AL_.jpg",
+        "imDbRating": "6.1"
+    }, {
+        "id": "tt13887556",
+        "title": "Thus Spoke Kishibe Rohan",
+        "year": "(2017–2021)",
+        "image": "https://imdb-api.com/images/original/MV5BYjU1Y2IxNjgtOWI0Mi00MTMzLWJiZmMtNWRhZTk4YTlkOWUxXkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.7"
+    }, {
+        "id": "tt2981768",
+        "title": "Patema Inverted",
+        "year": "(2013)",
+        "image": "https://imdb-api.com/images/original/MV5BYjE1ZDUwNGYtYzM2Ni00NzhiLWFjOTAtMDM4ZDRiNzM5NTkxXkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_Ratio0.6800_AL_.jpg",
+        "imDbRating": "7.4"
+    }]
+}
